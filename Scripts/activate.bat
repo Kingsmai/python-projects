@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\xsbug\OneDrive\Documents\Source\py-game-tutorial"
+set "VIRTUAL_ENV=C:\Users\xsbug\OneDrive\Documents\Source\python-small-projects"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
