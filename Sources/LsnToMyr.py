@@ -2,9 +2,13 @@ import tkinter as tk
 from tkinter import ttk 
 import math
 
-NFT_MATIC = 40
+NFT_MATIC = 45
 MATIC_USD = 0.86
 USD_MYR = 4.49
+
+# https://min-api.cryptocompare.com/data/price?fsym=MATIC&tsyms=USD
+# https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=MATIC,MYR
+# https://min-api.cryptocompare.com/data/price?fsym=MYR&tsyms=USD
 
 class MainApplication(tk.Frame):
 
