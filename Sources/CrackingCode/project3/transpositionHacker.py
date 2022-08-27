@@ -17,7 +17,7 @@ def hackTransposition(message):
 
     # Python programs can be stopped at any time by pressing
     # CTRL-C (on Windows) or CTRL-D (on MacOS or Linux):
-    print('Press CTRL-C (on Windows) or CTRL-D (on MacOS or Linux) to quit at any time)')
+    print('(Press CTRL-C (on Windows) or CTRL-D (on MacOS or Linux) to quit at any time)')
 
     # Brute-force by looping through every possible key:
     for key in range(1, len(message)):
