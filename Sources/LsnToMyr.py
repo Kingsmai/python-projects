@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk 
 import math
 
-NFT_MATIC = 45
+NFT_MATIC = 40
 MATIC_USD = 0.86
 USD_MYR = 4.49
 
