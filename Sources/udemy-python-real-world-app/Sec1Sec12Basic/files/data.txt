@@ -1,0 +1,2 @@
+some wooden data here which "actually created" by computer in real situation
+this data.txt will be deleted (in that situation)
