@@ -22,7 +22,7 @@
 9. And it will show up like: `3.9.13 ('python-projects':venv)`
 10. Press `F1` on your keyboard, and search for `Python: Create Terminal`
 11. The terminal will start and it will show as: `(python-projects) PS C:\Source\python-projects>`
-12. Run the command in the terminal: `pip install -f requirements.txt`
+12. Run the command in the terminal: `pip install -r requirements.txt`
 13. Last, Run the `setup.py` for create the important directory.
 
 > Contact me if you meet any issue.
