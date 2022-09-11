@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import csv
-from pprint import pprint
+
 
 # The scrollable element
 MASTER_ELEMENT = '#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj'
@@ -27,6 +27,8 @@ User Manual:
 
 print('Press ENTER when you are done')
 input('> ')
+
+fileName = driver.find_element(By.CSS_SELECTOR, '#main > header > div._24-Ff > div._2rlF7 > div > span').text
 
 master_element = driver.find_element(By.CSS_SELECTOR, MASTER_ELEMENT)
 
@@ -80,7 +82,7 @@ while height <= maxHeight + (LIST_ITEM_HEIGHT * 18):
 
 driver.close()
 
-with open('Data/result.csv', 'w', encoding='utf-8', newline='') as outputFile:
+with open(f'Output/{fileName}.csv', 'w', encoding='utf-8', newline='') as outputFile:
     writer = csv.writer(outputFile)
 
     writer.writerow(field)
