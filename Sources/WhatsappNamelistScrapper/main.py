@@ -4,15 +4,16 @@ from selenium.webdriver.common.by import By
 import time
 import csv
 
+MASTER_CLASSNAME = '_3Bc7H.g0rxnol2.thghmljt.p357zi0d.ggj6brxn.f8m0rgwh.gfz4du6o.ag5g9lrv.bs7a17vp.ov67bkzj'
 
 # The scrollable element
-MASTER_ELEMENT = '#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj'
+MASTER_ELEMENT = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME}'
 
-MASTER_HEIGHT_ELEMENT = '#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div'
+MASTER_HEIGHT_ELEMENT = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div'
 
 LIST_ITEM_HEIGHT = 72
 
-ITEM_ELEMENT = '#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div'
+ITEM_ELEMENT = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div'
 
 
 driver = webdriver.Firefox()
@@ -54,19 +55,19 @@ while height <= maxHeight + (LIST_ITEM_HEIGHT * 18):
             break
         currentElementChild = driver.find_element(By.CSS_SELECTOR, ITEM_ELEMENT + f':nth-child({nthChild}) > div')
         if currentElementChild.get_attribute('class') != 'YGe90 MCwxg':
-            contactNumberSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._3vPI2 > div > span'
-            aboutParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1qB8f'  # > span
-            nameParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1i_wG'  # > span._1ux8Y > span'
+            contactNumberSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._3vPI2 > div > span'
+            aboutParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1qB8f'  # > span
+            nameParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1i_wG'  # > span._1ux8Y > span'
             contactNumber = driver.find_element(By.CSS_SELECTOR, contactNumberSelector).text
             aboutParent = driver.find_element(By.CSS_SELECTOR, aboutParentSelector).text
             if aboutParent != '':
-                aboutSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1qB8f > span'
+                aboutSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1qB8f > span'
                 about = driver.find_element(By.CSS_SELECTOR, aboutSelector).text
             else:
                 about = ''
             nameParent = driver.find_element(By.CSS_SELECTOR, nameParentSelector).text
             if nameParent != '':
-                nameParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div._3Bc7H.KPJpj > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1i_wG > span._1ux8Y > span'
+                nameParentSelector = f'#app > div > span:nth-child(2) > div > span > div > div > div > div > div > div > div.{MASTER_CLASSNAME} > div > div > div > div:nth-child({nthChild}) > div > div > div._3OvU8 > div._37FrU > div._1i_wG > span._1ux8Y > span'
                 name = driver.find_element(By.CSS_SELECTOR, nameParentSelector).text
             else:
                 name = ''
