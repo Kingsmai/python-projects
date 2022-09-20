@@ -27,6 +27,14 @@ CHAT_NAME_ELEMENT = '#main > header > div._24-Ff > div._2rlF7 > div > span'
 
 driver = webdriver.Firefox()
 driver.get('https://web.whatsapp.com')
+print('''
+User Manual:
+1. Login to Whatsapp
+2. Open the group you need to scrap
+3. Click the ... on the top right corner
+4. Scroll down and click "Show all members"''')
+
+print('Press ENTER when you are done')
 input('> ')
 
 fileName = driver.find_element(By.CSS_SELECTOR, CHAT_NAME_ELEMENT).text
