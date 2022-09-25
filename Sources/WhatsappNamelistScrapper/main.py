@@ -95,3 +95,6 @@ while True:
     print('Continue? (Y/n)')
     if not input('> ').casefold().startswith('y'):
         break
+
+
+print("Written By: Xiaomai & Reyos")
