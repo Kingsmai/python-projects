@@ -21,7 +21,7 @@ with open('Output/Unicode.txt', 'w', encoding='utf-8') as file:
     for idx, i in enumerate(range(firstchar, lastchar)):
         currentChar = f'{chr(i)}, {i}\n'
         # currentChar = f'{chr(i)}'
-        file.write(currentChar + ' ')
+        file.write(currentChar)
         if (idx + 1) % 26 == 0:
             file.write('\n')
 
