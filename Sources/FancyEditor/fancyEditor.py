@@ -82,7 +82,36 @@ def getCharacterOffset(baseCharacter: str):
 
 
 if __name__ == '__main__':
-    sampleString = r'<bold>Hello,</bold> <italic>world</italic>!'
+    # BOLD = 'bold'
+    # ITALIC = 'italic'
+    # BOLD_ITALIC = 'botalic'
+    # SCRIPT = 'script'
+    # BOLD_SCRIPT = 'bscript'
+    # FRAKTUR = 'fraktur'
+    # DOUBLE_STRUCK = 'double'
+    # BOLD_FRAKTUR = 'bfraktur'
+    # SANS_SERIF = 'sans'
+    # BOLD_SANS_SERIF = 'bsans'
+    # ITALIC_SANS_SERIF = 'isans'
+    # BOLD_ITALIC_SANS_SERIF = 'bisans'
+    # MONOSPACE = 'mono'
+
+    sampleString = r'''
+    <bold>dolores et diam sit</bold>
+    <bold>Bold</bold>
+    <italic>Italic</italic>
+    <botalic>Bold Italic</botalic>
+    <script>Script</script>
+    <bscript>Bold Script</bscript>
+    <fraktur>Fraktur</fraktur>
+    <double>Double Struck</double>
+    <bfraktur>Bold Fraktur</bfraktur>
+    <sans>Sans Serif</sans>
+    <bsans>Bold Sans Serif</bsans>
+    <isans>Italic Sans Serif</isans>
+    <bisans>Bold Italic Sans Serif</bisans>
+    <mono>Monospace</mono>
+    '''
     # sampleString = r'Hello, world!'
     translatedString = process(sampleString)
     print(translatedString)
