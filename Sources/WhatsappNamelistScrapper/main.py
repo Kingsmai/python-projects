@@ -1,3 +1,5 @@
+# Written by: Xiaomai & Reyos
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -93,3 +95,6 @@ while True:
     print('Continue? (Y/n)')
     if not input('> ').casefold().startswith('y'):
         break
+
+
+print("Written By: Xiaomai & Reyos")
