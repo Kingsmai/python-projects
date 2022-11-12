@@ -1,10 +1,10 @@
 import math
 
 # 1 Pumpkin Producer = (20 Plate * 9)Stack + 6 Anti + 6 Carved
-pumpkin = 1408893
+pumpkin = 1714349
 anti = 0
 carved = anti
-plate = 3
+plate = 2
 pumpkinProducer = math.floor((pumpkin + anti + carved + (plate * 9)) / 192)
 print(f"""
 You can craft {pumpkinProducer} pumpkin producers.
