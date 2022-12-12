@@ -1,0 +1,1539 @@
+{
+  "\u7a7f\u4e91\u5f13": {
+    "rune_id": "15827",
+    "name": "\u7a7f\u4e91\u5f13",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "https://img.18183.com/uploads/allimg/180820/237-1PR0154330143.jpg",
+      "price": "1100",
+      "detail": "",
+      "parent_id": "\u7834\u6653",
+      "child_id": "\u5315\u9996,\u96f7\u9e23\u5203",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "10", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "attack_damage", "value": "40", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u7834\u7532", "effect": "+10%\u7269\u7406\u7a7f\u900f\uff08\u8fdc\u7a0b\u82f1\u96c4\u4f7f\u7528\u65f6\u6548\u679c\u7ffb\u500d\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u7834\u6653": {
+    "rune_id": "15826",
+    "name": "\u7834\u6653",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "https://img.18183.com/uploads/allimg/180820/237-1PR0154213X5.jpg",
+      "price": "3400",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u7a7f\u4e91\u5f13,\u901f\u51fb\u4e4b\u67aa,\u51b2\u80fd\u62f3\u5957",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "35", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "15", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "attack_damage", "value": "50", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u7834\u7532", "effect": "+22.5%\u7269\u7406\u7a7f\u900f\uff08\u8fdc\u7a0b\u82f1\u96c4\u4f7f\u7528\u65f6\u6548\u679c\u7ffb\u500d\uff09", "type": "unique_passive" },
+        { "name": "\u653b\u51fb\u52a0\u6210", "effect": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u534750\u70b9\uff08\u8fdc\u7a0b\u82f1\u96c4\u4f7f\u7528\u65f6\u6548\u679c\u7ffb\u500d\uff09", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u6551\u8d4e\u4e4b\u7ffc": {
+    "rune_id": "15491",
+    "name": "\u6551\u8d4e\u4e4b\u7ffc",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GQ014.jpg",
+      "price": "1800",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u98ce\u4e4b\u8f7b\u8bed,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "movement_speed", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u6551\u63f4", "effect": "60\u79d2CD\uff0c\u4e3a\u5468\u56f4\u8840\u91cf\u6700\u4f4e\u7684\u53cb\u65b9\u82f1\u96c4(\u5305\u62ec\u81ea\u5df1)\u63d0\u4f9b\u4e00\u4e2a\u5438\u6536(800+\u82f1\u96c4\u7b49\u7ea7*80)\u4f24\u5bb3\u7684\u62a4\u76fe\uff0c\u5e76\u63d0\u534730%\u7684\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed3\u79d2!", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u6781\u5f71": {
+    "rune_id": "15490",
+    "name": "\u6781\u5f71",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GK501.jpg",
+      "price": "1910",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u51e4\u9e23\u6307\u73af,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "movement_speed", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u9f13\u821e", "effect": "60\u79d2CD\uff0c\u4e3a\u5468\u56f4\u53cb\u65b9\u82f1\u96c4\u589e\u52a050%\u653b\u51fb\u901f\u5ea6\u548c20%\u51b7\u5374\u7f29\u51cf\uff0c\u6301\u7eed5\u79d2!", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u9f13\u821e\u4e4b\u76fe": {
+    "rune_id": "15489",
+    "name": "\u9f13\u821e\u4e4b\u76fe",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GK020.jpg",
+      "price": "1180",
+      "detail": "",
+      "parent_id": "\u9f13\u821e\u4e4b\u76fe",
+      "child_id": "\u5b66\u8bc6\u5b9d\u77f3,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u5954\u817e\u53f7\u4ee4", "effect": "60\u79d2CD\uff0c\u589e\u52a0\u5468\u56f4\u6240\u6709\u53cb\u65b9\u82f1\u96c430%\u79fb\u901f\uff0c\u6301\u7eed3\u79d2", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u98ce\u7075\u7eb9\u7ae0": {
+    "rune_id": "15488",
+    "name": "\u98ce\u7075\u7eb9\u7ae0",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GJ522.jpg",
+      "price": "1180",
+      "detail": "",
+      "parent_id": "\u5954\u72fc\u7eb9\u7ae0",
+      "child_id": "\u5b66\u8bc6\u5b9d\u77f3,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "health", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u6551\u63f4", "effect": "60\u79d2CD\uff0c\u589e\u52a0\u5468\u56f4\u6240\u6709\u53cb\u65b9\u82f1\u96c430%\u7684\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed3\u79d2", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u98ce\u4e4b\u8f7b\u8bed": {
+    "rune_id": "15487",
+    "name": "\u98ce\u4e4b\u8f7b\u8bed",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GJ007.jpg",
+      "price": "1010",
+      "detail": "",
+      "parent_id": "\u6551\u8d4e\u4e4b\u7ffc",
+      "child_id": "\u5b66\u8bc6\u5b9d\u77f3,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u6551\u63f4", "effect": "60\u79d2CD\uff0c\u4e3a\u5468\u56f4\u8840\u91cf\u6700\u4f4e\u7684\u53cb\u65b9\u82f1\u96c4(\u5305\u62ec\u81ea\u5df1)\u63d0\u4f9b\u4e00\u4e2a\u5438\u6536(500+\u82f1\u96c4\u7b49\u7ea7*50)\u4f24\u5bb3\u7684\u62a4\u76fe\uff0c\u5e76\u63d0\u534715%\u7684\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed3\u79d2!", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u51e4\u9e23\u6307\u73af": {
+    "rune_id": "15486",
+    "name": "\u51e4\u9e23\u6307\u73af",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GH953.jpg",
+      "price": "1010",
+      "detail": "",
+      "parent_id": "\u6781\u5f71",
+      "child_id": "\u5b66\u8bc6\u5b9d\u77f3,\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u5982\u679c\u81ea\u5df1\u7684\u7ecf\u6d4e\u6216\u7ecf\u9a8c\u662f\u5df1\u65b9\u6700\u4f4e\uff0c\u6bcf3\u79d2\u989d\u5916\u83b7\u5f975\u70b9\u7ecf\u6d4e\u6216\u7ecf\u9a8c!", "effect": "60\u79d2CD\uff0c\u4e3a\u5468\u56f4\u53cb\u65b9\u82f1\u96c4\u589e\u52a030%\u653b\u51fb\u901f\u5ea6\u548c10%\u51b7\u5374\u7f29\u51cf\uff0c\u6301\u7eed3\u79d2", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u5b66\u8bc6\u5b9d\u77f3": {
+    "rune_id": "15485",
+    "name": "\u5b66\u8bc6\u5b9d\u77f3",
+    "category": "fangyu",
+    "tier": "1",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170627/70-1F62GHH5.jpg",
+      "price": "300",
+      "detail": "",
+      "parent_id": "\u98ce\u9e23\u6307\u73af,\u98ce\u4e4b\u8f7b\u8bed,\u98ce\u7075\u7eb9\u7ae0,\u9f13\u821e\u4e4b\u76fe",
+      "child_id": "",
+      "attribute": [{ "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u5949\u732e", "effect": "\u5982\u679c\u81ea\u5df1\u7684\u7ecf\u6d4e\u6216\u7ecf\u9a8c\u662f\u5df1\u65b9\u6700\u4f4e\uff0c\u6bcf3\u79d2\u989d\u5916\u83b7\u5f975\u70b9\u7ecf\u6d4e\u6216\u7ecf\u9a8c!", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u9010\u65e5\u4e4b\u5f13": {
+    "rune_id": "13976",
+    "name": "\u9010\u65e5\u4e4b\u5f13",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/uploads/allimg/170328/36-1F32QJ230.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u72c2\u66b4\u53cc\u5203",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "15", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u9010\u65e5", "effect": "\u589e\u52a0\u81ea\u8eab150\u666e\u653b\u5c04\u7a0b\u548c30%\u7684\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed5\u79d2\uff08\u51b7\u5374CD60\u79d2\uff09\uff0c\u4ec5\u8fdc\u7a0b\u82f1\u96c4\u751f\u6548", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u566c\u795e\u4e4b\u4e66": {
+    "rune_id": "11641",
+    "name": "\u566c\u795e\u4e4b\u4e66",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.duoku.com/uploads/allimg/161012/36-161012140008.png",
+      "price": "1254",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u8840\u65cf\u4e4b\u4e66,\u7ea2\u739b\u7459,\u5492\u672f\u5178\u7c4d",
+      "attribute": [
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "800", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "ability_power", "value": "180", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u523b\u5370", "effect": "\u589e\u52a025%\u6cd5\u672f\u5438\u8840", "type": "unique_passive" }],
+      "suit": "\u9732\u5a1c,\u9ad8\u6e10\u79bb,\u59b2\u5df1,\u8c82\u8749,\u8288\u6708,\u4e0d\u77e5\u706b\u821e"
+    }
+  },
+  "\u75be\u6b65\u4e4b\u9774": {
+    "rune_id": "9798",
+    "name": "\u75be\u6b65\u4e4b\u9774",
+    "category": "yidong",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/98.png",
+      "price": "530",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u901f\u4e4b\u9774",
+      "attribute": [],
+      "effect": [
+        { "name": "\u795e\u884c", "effect": "\u8131\u79bb\u6218\u6597\u540e\u589e\u52a060\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" },
+        { "name": "", "effect": "+60\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" }
+      ],
+      "suit": "\u5178\u97e6,\u8001\u592b\u5b50,\u949f\u65e0\u8273,\u8fbe\u6469"
+    }
+  },
+  "\u51b0\u75d5\u4e4b\u63e1": {
+    "rune_id": "9797",
+    "name": "\u51b0\u75d5\u4e4b\u63e1",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/97.png",
+      "price": "2020",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5149\u8f89\u4e4b\u5251,\u5e03\u7532",
+      "attribute": [
+        { "attribute": "health", "value": "800", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "500", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "armor", "value": "200", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5492\u5203", "effect": "\u4f7f\u7528\u6280\u80fd\u540e\uff0c5\u79d2\u5185\u7684\u4e0b\u4e00\u6b21\u666e\u653b\u9020\u6210\u8303\u56f430%\u51cf\u901f\u548c150\u70b9\u7269\u7406\u4f24\u5bb3\uff08\u6bcf\u53471\u7ea7\u589e\u52a020\u70b9\uff09\uff0c\u8fd9\u4e2a\u6548\u679c\u67093\u79d2\u51b7\u5374\u65f6\u95f4\u3002", "type": "unique_passive" }],
+      "suit": "\u5b59\u5c1a\u9999,\u8d75\u4e91,\u6a58\u53f3\u4eac"
+    }
+  },
+  "\u51b0\u971c\u957f\u77db": {
+    "rune_id": "9796",
+    "name": "\u51b0\u971c\u957f\u77db",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/96.png",
+      "price": "1970",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u65e5\u5195,\u7ea2\u739b\u7459,\u94c1\u5251",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "80", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "600", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u788e\u51b0", "effect": "\u666e\u653b\u4f1a\u51cf\u5c11\u76ee\u680730%\u653b\u901f\u548c\u79fb\u901f\uff0c\u6301\u7eed2\u79d2\uff0c\u8fdc\u7a0b\u82f1\u96c4\u4f7f\u7528\u65f6\u51cf\u901f\u6548\u679c\u6301\u7eed\u65f6\u95f4\u8870\u51cf\u4e3a1\u79d2\u3002", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5954\u72fc\u7eb9\u7ae0": {
+    "rune_id": "9795",
+    "name": "\u5954\u72fc\u7eb9\u7ae0",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/95.png",
+      "price": "1530",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u7ea2\u739b\u7459,\u98ce\u7075\u7eb9\u7ae0",
+      "attribute": [
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "armor", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "400", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5954\u817e\u53f7\u4ee4", "effect": "60\u79d2CD,\u589e\u52a0\u5468\u56f4\u6240\u6709\u53cb\u65b9\u82f1\u96c410%\u4f24\u5bb3\u8f93\u51fa\u548c30%\u7684\u79fb\u52a8\u901f\u5ea6,\u6301\u7eed2\u79d2", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u8f89\u6708": {
+    "rune_id": "9794",
+    "name": "\u8f89\u6708",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/94.png",
+      "price": "2300",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5927\u68d2,\u5723\u8005\u6cd5\u5178",
+      "attribute": [
+        { "attribute": "ability_power", "value": "160", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u6708\u4e4b\u5b88\u62a4", "effect": "90\u79d2CD,\u514d\u75ab\u6240\u6709\u6548\u679c,\u4e0d\u80fd\u79fb\u52a8,\u653b\u51fb\u548c\u4f7f\u7528\u6280\u80fd,\u6301\u7eed1.5\u79d2", "type": "unique_active" }],
+      "suit": ""
+    }
+  },
+  "\u68a6\u9b47\u4e4b\u7259": {
+    "rune_id": "9793",
+    "name": "\u68a6\u9b47\u4e4b\u7259",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/93.png",
+      "price": "2050",
+      "detail": "",
+      "parent_id": "\u5927\u68d2,\u5143\u7d20\u6756",
+      "child_id": "",
+      "attribute": [
+        { "attribute": "ability_power", "value": "240", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u91cd\u4f24", "effect": "\u6210\u4f24\u5bb3\u4f7f\u5f97\u76ee\u6807\u7684\u751f\u547d\u6062\u590d\u6548\u679c\u51cf\u5c1150%\uff0c\u6301\u7eed1.5\u79d2(\u5982\u679c\u8be5\u4f24\u5bb3\u7531\u666e\u653b\u89e6\u53d1\uff0c\u5219\u6301\u7eed\u65f6\u95f4\u5ef6\u957f\u81f33\u79d2)", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u91d1\u8272\u5723\u5251": {
+    "rune_id": "9792",
+    "name": "\u91d1\u8272\u5723\u5251",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/92.png",
+      "price": "2060",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5492\u672f\u5178\u7c4d,\u84dd\u5b9d\u77f3,\u5723\u8005\u6cd5\u5178",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "ability_power", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "15", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u707c\u70ed", "effect": "\u666e\u901a\u653b\u51fb\u9020\u6210\u57fa\u4e8e\u81ea\u8eab\u6cd5\u672f\u5f3a\u5ea620%\u7684\u6cd5\u672f\u4f24\u5bb3", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u7834\u788e\u5723\u676f": {
+    "rune_id": "9791",
+    "name": "\u7834\u788e\u5723\u676f",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/91.png",
+      "price": "900",
+      "detail": "",
+      "parent_id": "\u5723\u676f",
+      "child_id": "\u5492\u672f\u5178\u7c4d,\u70bc\u91d1\u62a4\u7b26",
+      "attribute": [
+        { "attribute": "ability_power", "value": "80", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "5", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "mana_regen", "value": "20", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  },
+  "\u5143\u7d20\u6756": { "rune_id": "9790", "name": "\u5143\u7d20\u6756", "category": "fashu", "tier": "1", "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/90.png", "price": "540", "detail": "", "parent_id": "\u865a\u65e0\u6cd5\u6756", "child_id": "", "attribute": [{ "attribute": "ability_power", "value": "80", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" } },
+  "\u5236\u88c1\u4e4b\u5203": {
+    "rune_id": "9789",
+    "name": "\u5236\u88c1\u4e4b\u5203",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/89.png",
+      "price": "1800",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u94c1\u5251,\u96f7\u9e23\u5203",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "life_steal", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u91cd\u4f24", "effect": "\u9020\u6210\u4f24\u5bb3\u4f7f\u5f97\u76ee\u6807\u7684\u751f\u547d\u6062\u590d\u6548\u679c\u51cf\u5c1150%\uff0c\u6301\u7eed1.5\u79d2(\u5982\u679c\u8be5\u4f24\u5bb3\u7531\u666e\u653b\u89e6\u53d1\uff0c\u5219\u6301\u7eed\u65f6\u95f4\u5ef6\u957f\u81f33\u79d2)", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u7eaf\u51c0\u82cd\u7a79": {
+    "rune_id": "9788",
+    "name": "\u7eaf\u51c0\u82cd\u7a79",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/88.png",
+      "price": "2230",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u901f\u51fb\u4e4b\u67aa,\u51b2\u80fd\u62f3\u5957,\u5315\u9996",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "40", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "20", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u7cbe\u51c6", "effect": "\u666e\u901a\u653b\u51fb\u9644\u5e2660\u70b9\u7269\u7406\u4f24\u5bb3", "type": "unique_passive" },
+        { "name": "\u9a71\u6563", "effect": "90\u79d2CD,\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e50%,\u6301\u7eed1.5\u79d2,\u53ef\u4ee5\u5728\u88ab\u63a7\u5236\u65f6\u4f7f\u7528\u3002", "type": "unique_active" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u901f\u51fb\u4e4b\u67aa": {
+    "rune_id": "9787",
+    "name": "\u901f\u51fb\u4e4b\u67aa",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/87.png",
+      "price": "890",
+      "detail": "",
+      "parent_id": "\u672b\u4e16,\u7eaf\u51c0\u82cd\u7a79,\u7834\u6653,\u9010\u65e5\u4e4b\u5f13",
+      "child_id": "\u5315\u9996",
+      "attribute": [{ "attribute": "attack_speed", "value": "25", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u7cbe\u51c6", "effect": "\u666e\u901a\u653b\u51fb\u9644\u5e2620-34\u70b9\u7269\u7406\u4f24\u5bb3\uff08\u968f\u7b49\u7ea7\u63d0\u5347\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u51b2\u80fd\u62f3\u5957": {
+    "rune_id": "9786",
+    "name": "\u51b2\u80fd\u62f3\u5957",
+    "category": "gongji",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/86.png", "price": "550", "detail": "", "parent_id": "\u65e0\u5c3d\u6218\u5203,\u5b97\u5e08\u4e4b\u529b,\u9010\u65e5\u4e4b\u5f13,\u7834\u6653,\u7eaf\u51c0\u82cd\u7a79", "child_id": "", "attribute": [{ "attribute": "critical_strike_chance", "value": "15", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u96f7\u9e23\u5203": {
+    "rune_id": "9785",
+    "name": "\u96f7\u9e23\u5203",
+    "category": "gongji",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/85.png", "price": "450", "detail": "", "parent_id": "\u7a7f\u4e91\u5f13,\u7834\u9b54\u5200,\u540d\u5200\u00b7\u53f8\u547d,\u7834\u7532\u5f13,\u5236\u88c1\u4e4b\u5203", "child_id": "", "attribute": [{ "attribute": "attack_damage", "value": "40", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u8840\u9b54\u4e4b\u6012": {
+    "rune_id": "9783",
+    "name": "\u8840\u9b54\u4e4b\u6012",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/83.png",
+      "price": "2120",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u529b\u91cf\u8170\u5e26,\u94c1\u5251",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "20", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1000", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u8840\u6012", "effect": "\u751f\u547d\u503c\u4f4e\u4e8e30%\u65f6\u83b7\u5f97\u8840\u6012\uff0c\u589e\u52a080\u70b9\u653b\u51fb\u4e0e\u5f3a\u5927\u62a4\u76fe\u6301\u7eed8\u79d2\uff0c\u6548\u679c\u670990\u79d2CD", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u56de\u54cd\u4e4b\u6756": {
+    "rune_id": "9782",
+    "name": "\u56de\u54cd\u4e4b\u6756",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/82.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5927\u68d2",
+      "attribute": [
+        { "attribute": "ability_power", "value": "240", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "7", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u56de\u54cd", "effect": "\u6280\u80fd\u547d\u4e2d\u4f1a\u89e6\u53d1\u5c0f\u8303\u56f4\u7206\u70b8\u9020\u621050\uff08+50%\u6cd5\u672f\u52a0\u6210\uff09\u6cd5\u672f\u4f24\u5bb3\uff0c\u8fd9\u4e2a\u6548\u679c\u67095\u79d2CD", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u66b4\u70c8\u4e4b\u7532": {
+    "rune_id": "9781",
+    "name": "\u66b4\u70c8\u4e4b\u7532",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/81.png",
+      "price": "1950",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u529b\u91cf\u8170\u5e26,\u5e03\u7532,\u5e03\u7532",
+      "attribute": [
+        { "attribute": "health", "value": "1000", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "armor", "value": "220", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u65e0\u754f", "effect": "\u88ab\u52a8\u6bcf\u5c42\u63d0\u53472%\u8f93\u51fa\u7387->\u6bcf\u5c42\u63d0\u53473%\u8f93\u51fa\u7387", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u8d24\u8005\u7684\u5e87\u62a4": {
+    "rune_id": "9780",
+    "name": "\u8d24\u8005\u7684\u5e87\u62a4",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/80.png",
+      "price": "2080",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "",
+      "attribute": [
+        { "attribute": "armor", "value": "140", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "magic_resist", "value": "140", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u590d\u751f", "effect": "\u590d\u96c4\u7b49\u7ea7*100\u70b9\u751f\u547d\u503c\uff0c\u8fd9\u4e2a\u6548\u679c\u67093\u5206\u949fCD\uff0c\u6bcf\u5c40\u590d\u6d3b\u4e24\u6b21\u3002", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u6781\u5bd2\u98ce\u66b4": {
+    "rune_id": "9779",
+    "name": "\u6781\u5bd2\u98ce\u66b4",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/uploads/allimg/170328/36-1F32QK455.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u96ea\u5c71\u5706\u76fe,\u5b88\u62a4\u8005\u4e4b\u94e0",
+      "attribute": [
+        { "attribute": "cooldown_reduction", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "500", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "armor", "value": "360", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5bd2\u51b0\u51b2\u51fb", "effect": "\u53d7\u5230\u5355\u6b21\u4f24\u5bb3\u8d85\u8fc7\u5f53\u524d\u751f\u547d\u503c10%\u65f6\u89e6\u53d1\u5bd2\u51b0\u51b2\u51fb\uff0c\u5bf9\u5468\u56f4\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u5e76\u964d\u4f4e\u517630%\u653b\u51fb\u548c\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed2\u79d2\uff0c\u8fd9\u4e2a\u6548\u679c\u67092\u79d2\u5185\u7f6eCD", "type": "unique_passive" }],
+      "suit": "\u5218\u90a6,\u8c82\u8749"
+    }
+  },
+  "\u9b54\u5973\u6597\u7bf7": {
+    "rune_id": "9778",
+    "name": "\u9b54\u5973\u6597\u7bf7",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/78.png",
+      "price": "1870",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u9690\u6597\u7bf7,\u529b\u91cf\u8170\u5e26",
+      "attribute": [
+        { "attribute": "magic_resist", "value": "360", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1000", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u8ff7\u96fe", "effect": "\u8131\u79bb\u6218\u65973\u79d2\u540e\u5237\u65b0,\u83b7\u5f97\u4e00\u4e2a\u5438\u6536320~2000\u70b9\u6cd5\u672f\u4f24\u5bb3\u7684\u62a4\u76fe\uff08\u62a4\u76fe\u6548\u679c\u968f\u82f1\u96c4\u7b49\u7ea7\u6210\u957f\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u4e0d\u6b7b\u9e1f\u4e4b\u773c": {
+    "rune_id": "9777",
+    "name": "\u4e0d\u6b7b\u9e1f\u4e4b\u773c",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/uploads/allimg/170328/36-1F32QK246.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u9690\u6597\u7bf7,\u7ea2\u739b\u7459,\u63d0\u795e\u6c34\u6676",
+      "attribute": [
+        { "attribute": "magic_resist", "value": "240", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1200", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health_regen", "value": "100", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u8840\u7edf", "effect": "\u6bcf\u635f\u593110%\u7684\u8840\u91cf\uff0c\u63d0\u5347\u6cbb\u7597\u6548\u679c6%\uff0c\u5f53\u635f\u593190%\u7684\u8840\u91cf\uff0c\u56de\u590d\u6548\u679c\u4f1a\u589e\u52a0\u81f354%", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u4e0d\u7965\u5f81\u5146": {
+    "rune_id": "9776",
+    "name": "\u4e0d\u7965\u5f81\u5146",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/76.png",
+      "price": "2180",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u529b\u91cf\u8170\u5e26,\u5b88\u62a4\u8005\u4e4b\u94e0",
+      "attribute": [
+        { "attribute": "armor", "value": "270", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1200", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5bd2\u94c1", "effect": "\u53d7\u5230\u653b\u51fb\u4f1a\u51cf\u5c11\u653b\u51fb\u800530%\u653b\u51fb\u901f\u5ea6\u4e0e15%\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u9738\u8005\u91cd\u88c5": {
+    "rune_id": "9775",
+    "name": "\u9738\u8005\u91cd\u88c5",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/75.png",
+      "price": "2070",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u529b\u91cf\u8170\u5e26",
+      "attribute": [{ "attribute": "health", "value": "2000", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u590d\u82cf", "effect": "\u8131\u79bb\u6218\u6597\u540e\uff0c\u6bcf\u79d2\u56de\u590d2%\u6700\u5927\u751f\u547d\u503c->\u6bcf2\u79d2\u56de\u590d1%\u6700\u5927\u751f\u547d\u503c\uff0c\u8131\u79bb\u6218\u6597\u540e\uff0c\u56de\u590d\u901f\u5ea6\u63d0\u5347\u81f3\u6bcf2\u79d26%\u3002", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u7ea2\u83b2\u6597\u7bf7": {
+    "rune_id": "9774",
+    "name": "\u7ea2\u83b2\u6597\u7bf7",
+    "category": "fangyu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/74.png",
+      "price": "1830",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u7194\u70bc\u4e4b\u5fc3,\u5e03\u7532",
+      "attribute": [
+        { "attribute": "armor", "value": "240", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1200", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u732e\u796d", "effect": "\u6bcf\u79d2\u5bf9\u8eab\u8fb9\u7684\u654c\u519b\u9020\u6210100\u70b9\u6cd5\u672f\u4f24\u5bb3", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u53cd\u4f24\u523a\u7532": {
+    "rune_id": "9772",
+    "name": "\u53cd\u4f24\u523a\u7532",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/72.png",
+      "price": "1840",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5e03\u7532,\u96f7\u9e23\u5203",
+      "attribute": [
+        { "attribute": "armor", "value": "420", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "attack_damage", "value": "40", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u8346\u68d8", "effect": "\u53d7\u5230\u7269\u7406\u4f24\u5bb3\u65f6\uff0c\u4f1a\u5c06\u4f24\u5bb3\u91cf\u768415%\u4ee5\u6cd5\u672f\u4f24\u5bb3\u7684\u5f62\u5f0f\u56de\u656c\u7ed9\u5bf9\u65b9\uff08\u6309\u7167\u8ba1\u7b97\u4f24\u5bb3\u51cf\u514d\u4e4b\u524d\u7684\u521d\u59cb\u4f24\u5bb3\u503c\u8ba1\u7b97\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u8fd1\u536b\u8363\u8000": {
+    "rune_id": "9771",
+    "name": "\u8fd1\u536b\u8363\u8000",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170206/70-1F2061T002.png",
+      "price": "1510",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u7ea2\u739b\u7459,\u9f13\u821e\u4e4b\u76fe",
+      "attribute": [
+        { "attribute": "health", "value": "500", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u519b\u56e2", "effect": "\u5468\u56f4\u53cb\u519b\u589e\u52a0(30+\u82f1\u96c4\u7b49\u7ea7*2)\u70b9\u7269\u7406\u653b\u51fb\u548c(60+\u82f1\u96c4\u7b49\u7ea7*4)\u70b9\u6cd5\u672f\u653b\u51fb", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5b88\u62a4\u8005\u4e4b\u94e0": {
+    "rune_id": "9770",
+    "name": "\u5b88\u62a4\u8005\u4e4b\u94e0",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/70.png",
+      "price": "730",
+      "detail": "",
+      "parent_id": "\u4e0d\u7965\u5f81\u5146,\u51b0\u5c01\u4e4b\u5fc3",
+      "child_id": "\u5e03\u7532",
+      "attribute": [{ "attribute": "armor", "value": "210", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u5bd2\u94c1", "effect": "\u53d7\u5230\u653b\u51fb\u4f1a\u51cf\u5c11\u653b\u51fb\u800515%\u653b\u51fb\u901f\u5ea6,\u6301\u7eed3\u79d2", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u96ea\u5c71\u5706\u76fe": {
+    "rune_id": "9769",
+    "name": "\u96ea\u5c71\u5706\u76fe",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/69.png",
+      "price": "900",
+      "detail": "",
+      "parent_id": "\u51b0\u5c01\u4e4b\u5fc3,\u51b0\u8109\u62a4\u624b",
+      "child_id": "\u5e03\u7532",
+      "attribute": [
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "armor", "value": "110", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  },
+  "\u795e\u9690\u6597\u7bf7": {
+    "rune_id": "9768",
+    "name": "\u795e\u9690\u6597\u7bf7",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/68.png",
+      "price": "1020",
+      "detail": "",
+      "parent_id": "\u632f\u5174\u4e4b\u94e0,\u9b54\u5973\u6597\u7bf7",
+      "child_id": "\u7ea2\u739b\u7459,\u6297\u9b54\u62ab\u98ce",
+      "attribute": [
+        { "attribute": "magic_resist", "value": "120", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "700", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health_regen", "value": "50", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u7194\u70bc\u4e4b\u5fc3": {
+    "rune_id": "9767",
+    "name": "\u7194\u70bc\u4e4b\u5fc3",
+    "category": "fangyu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/67.png",
+      "price": "900",
+      "detail": "",
+      "parent_id": "\u7ea2\u83b2\u6597\u7bf7",
+      "child_id": "\u7ea2\u739b\u7459",
+      "attribute": [{ "attribute": "health", "value": "700", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [{ "name": "\u732e\u796d", "effect": "\u6bcf\u79d2\u5bf9\u8eab\u8fb9\u7684\u654c\u519b\u9020\u621060\u70b9\u6cd5\u672f\u4f24\u5bb3,\u6bcf\u53471\u7ea7\u589e\u52a02\u70b9\u4f24\u5bb3", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u529b\u91cf\u8170\u5e26": {
+    "rune_id": "9766",
+    "name": "\u529b\u91cf\u8170\u5e26",
+    "category": "fangyu",
+    "tier": "2",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/66.png", "price": "900", "detail": "", "parent_id": "\u9738\u8005\u91cd\u88c5,\u4e0d\u7965\u5f81\u5146,\u66b4\u70c8\u4e4b\u7532,\u51b0\u971c\u6cd5\u6756,\u9b54\u5973\u6597\u7bf7", "child_id": "\u7ea2\u739b\u7459", "attribute": [{ "attribute": "health", "value": "1000", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u63d0\u795e\u6c34\u6676": { "rune_id": "9765", "name": "\u63d0\u795e\u6c34\u6676", "category": "fangyu", "tier": "1", "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/65.png", "price": "140", "detail": "", "parent_id": "\u9738\u8005\u91cd\u88c5,\u632f\u5174\u4e4b\u94e0", "child_id": "", "attribute": [{ "attribute": "health_regen", "value": "30", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" } },
+  "\u6297\u9b54\u62ab\u98ce": {
+    "rune_id": "9764",
+    "name": "\u6297\u9b54\u62ab\u98ce",
+    "category": "fangyu",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/64.png", "price": "220", "detail": "", "parent_id": "\u795e\u9690\u6597\u7bf7,\u519b\u56e2\u8363\u8000,\u62b5\u6297\u4e4b\u9774,\u68a6\u9b47\u4e4b\u7259", "child_id": "", "attribute": [{ "attribute": "magic_resist", "value": "90", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u5e03\u7532": {
+    "rune_id": "9763",
+    "name": "\u5e03\u7532",
+    "category": "fangyu",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/63.png", "price": "220", "detail": "", "parent_id": "\u96ea\u5c71\u5706\u76fe,\u5b88\u62a4\u8005\u4e4b\u94e0,\u519b\u56e2\u8363\u8000,\u53cd\u4f24\u523a\u7532,\u5954\u72fc\u7eb9\u7ae0,\u7206\u70c8\u4e4b\u7532,\u5f71\u5fcd\u4e4b\u8db3,\u7ea2\u83b2\u6597\u7bf7", "child_id": "", "attribute": [{ "attribute": "armor", "value": "90", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u7ea2\u739b\u7459": {
+    "rune_id": "9762",
+    "name": "\u7ea2\u739b\u7459",
+    "category": "fangyu",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/62.png", "price": "300", "detail": "", "parent_id": "\u529b\u91cf\u8170\u5e26,\u7194\u70bc\u4e4b\u5fc3,\u795e\u9690\u6597\u7bf7,\u8fd1\u536b\u8363\u8000,\u8840\u9b54\u4e4b\u6012,\u5954\u72fc\u7eb9\u7ae0,\u566c\u795e\u4e4b\u4e66,", "child_id": "", "attribute": [{ "attribute": "health", "value": "300", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u8d2a\u5a6a\u4e4b\u566c": {
+    "rune_id": "9761",
+    "name": "\u8d2a\u5a6a\u4e4b\u566c",
+    "category": "daye",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/171023/70-1G0231F102.png",
+      "price": "1460",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u8ffd\u51fb\u5200\u950b",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "45", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "attack_speed", "value": "12", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab2%\u653b\u51fb\u901f\u5ea6\uff0c\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u5de8\u4eba\u4e4b\u63e1": {
+    "rune_id": "9760",
+    "name": "\u5de8\u4eba\u4e4b\u63e1",
+    "category": "daye",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/171023/70-1G0231F204.png",
+      "price": "1500",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5de1\u5b88\u5229\u65a7",
+      "attribute": [{ "attribute": "health", "value": "600", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [
+        { "name": "\u732e\u796d", "effect": "\u6bcf\u79d2\u5bf9\u9644\u8fd1\u654c\u4eba\u9020\u621060\u70b9\u6cd5\u672f\u4f24\u5bb3", "type": "unique_passive" },
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab70\u70b9\u6700\u5927\u751f\u547d\uff0c\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u7b26\u6587\u5927\u5251": {
+    "rune_id": "9759",
+    "name": "\u7b26\u6587\u5927\u5251",
+    "category": "daye",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/171023/70-1G0231F232.png",
+      "price": "1490",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u6e38\u51fb\u5bbd\u5203",
+      "attribute": [
+        { "attribute": "ability_power", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u5492\u5203", "effect": "\u4f7f\u7528\u6280\u80fd\u5f3a\u5316\u4e0b\u4e00\u6b21\u666e\u653b", "type": "unique_passive" },
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab8\u70b9\u6cd5\u672f\u5f3a\u5ea6\uff0c\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u8ffd\u51fb\u5200\u950b": {
+    "rune_id": "9758",
+    "name": "\u8ffd\u51fb\u5200\u950b",
+    "category": "daye",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/58.png",
+      "price": "750",
+      "detail": "",
+      "parent_id": "\u8d2a\u5a6a\u4e4b\u566c",
+      "child_id": "\u72e9\u730e\u5bbd\u5203",
+      "attribute": [],
+      "effect": [
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab2%\u653b\u51fb\u901f\u5ea6,\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u5de1\u5b88\u5229\u65a7": {
+    "rune_id": "9757",
+    "name": "\u5de1\u5b88\u5229\u65a7",
+    "category": "daye",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/57.png",
+      "price": "750",
+      "detail": "",
+      "parent_id": "\u5de8\u4eba\u4e4b\u63e1",
+      "child_id": "\u72e9\u730e\u5bbd\u5203",
+      "effect": [
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab70\u70b9\u6700\u5927\u751f\u547d,\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u6e38\u51fb\u5bbd\u5203": {
+    "rune_id": "9756",
+    "name": "\u6e38\u51fb\u5bbd\u5203",
+    "category": "daye",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/56.png",
+      "price": "750",
+      "detail": "",
+      "parent_id": "\u7b26\u6587\u5927\u5251",
+      "child_id": "\u72e9\u730e\u5bbd\u5203",
+      "attribute": [],
+      "effect": [
+        { "name": "\u6253\u91ce", "effect": "\u589e\u52a030%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534730%", "type": "unique_passive" },
+        { "name": "\u78e8\u783a", "effect": "\u51fb\u6740\u91ce\u602a\u589e\u52a0\u81ea\u8eab8\u70b9\u6cd5\u672f\u5f3a\u5ea6,\u6700\u591a\u53e0\u52a015\u5c42", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u6025\u901f\u6218\u9774": {
+    "rune_id": "9755",
+    "name": "\u6025\u901f\u6218\u9774",
+    "category": "yidong",
+    "tier": "2",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/55.png", "price": "710", "detail": "", "parent_id": "", "child_id": "\u795e\u901f\u4e4b\u9774", "attribute": [{ "attribute": "attack_speed", "value": "30", "unit": "percent", "type": "normal", "unique": "0" }], "effect": [{ "name": "", "effect": "+60\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u79d8\u6cd5\u4e4b\u9774": {
+    "rune_id": "9754",
+    "name": "\u79d8\u6cd5\u4e4b\u9774",
+    "category": "yidong",
+    "tier": "2",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/54.png", "price": "710", "detail": "", "parent_id": "", "child_id": "\u795e\u901f\u4e4b\u9774", "attribute": [{ "attribute": "movement_speed", "value": "60", "unit": "point", "type": "normal", "unique": "0" }], "effect": [{ "name": "", "effect": "+75\u6cd5\u672f\u7a7f\u900f", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u51b7\u9759\u4e4b\u9774": {
+    "rune_id": "9753",
+    "name": "\u51b7\u9759\u4e4b\u9774",
+    "category": "yidong",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/53.png",
+      "price": "710",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u901f\u4e4b\u9774",
+      "attribute": [{ "attribute": "cooldown_reduction", "value": "15", "unit": "percent", "type": "normal", "unique": "0" }],
+      "effect": [
+        { "name": "", "effect": "+60\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" },
+        { "name": "", "effect": "\u63d0\u5347\u6700\u5927\u51b7\u7f29\u81f345%", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u62b5\u6297\u4e4b\u9774": {
+    "rune_id": "9752",
+    "name": "\u62b5\u6297\u4e4b\u9774",
+    "category": "yidong",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/52.png",
+      "price": "710",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u901f\u4e4b\u9774",
+      "attribute": [{ "attribute": "magic_resist", "value": "110", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [
+        { "name": "", "effect": "+60\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" },
+        { "name": "", "effect": "+35%\u97e7\u6027", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u5f71\u5fcd\u4e4b\u8db3": {
+    "rune_id": "9751",
+    "name": "\u5f71\u5fcd\u4e4b\u8db3",
+    "category": "yidong",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/51.png",
+      "price": "710",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u795e\u901f\u4e4b\u9774",
+      "attribute": [{ "attribute": "armor", "value": "110", "unit": "point", "type": "normal", "unique": "0" }],
+      "effect": [
+        { "name": "", "effect": "+60\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" },
+        { "name": "", "effect": "\u51cf\u5c1115%\u53d7\u5230\u666e\u901a\u653b\u51fb\u7684\u4f24\u5bb3", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u795e\u901f\u4e4b\u9774": {
+    "rune_id": "9750",
+    "name": "\u795e\u901f\u4e4b\u9774",
+    "category": "yidong",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/50.png", "price": "250", "detail": "", "parent_id": "\u5f71\u5fcd\u4e4b\u8db3,\u62b5\u6297\u4e4b\u9774,\u51b7\u9759\u4e4b\u9774,\u79d8\u6cd5\u4e4b\u9774,\u6025\u901f\u6218\u9774,\u75be\u6b65\u4e4b\u9774", "child_id": "", "attribute": [], "effect": [{ "name": "", "effect": "+30\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u72e9\u730e\u5bbd\u5203": {
+    "rune_id": "9749",
+    "name": "\u72e9\u730e\u5bbd\u5203",
+    "category": "daye",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/49.png", "price": "250", "detail": "", "parent_id": "\u6e38\u51fb\u5bbd\u5203,\u5de1\u5b88\u5229\u65a7,\u8ffd\u51fb\u5200\u950b", "child_id": "", "attribute": [], "effect": [{ "name": "\u6253\u91ce", "effect": "\u589e\u52a020%\u5bf9\u91ce\u602a\u7684\u4f24\u5bb3\uff0c\u51fb\u6740\u91ce\u602a\u83b7\u5f97\u7ecf\u9a8c\u63d0\u534720%", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u8d24\u8005\u4e4b\u4e66": {
+    "rune_id": "9748",
+    "name": "\u8d24\u8005\u4e4b\u4e66",
+    "category": "fashu",
+    "tier": "3",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/48.png", "price": "2990", "detail": "", "parent_id": "", "child_id": "\u5927\u68d2", "attribute": [{ "attribute": "ability_power", "value": "400", "unit": "point", "type": "normal", "unique": "0" }], "effect": [{ "name": "\u523b\u5370", "effect": "\u589e\u52a01400\u70b9\u751f\u547d", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u65f6\u4e4b\u9884\u8a00": {
+    "rune_id": "9747",
+    "name": "\u65f6\u4e4b\u9884\u8a00",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/47.png",
+      "price": "2090",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5927\u68d2,\u8fdb\u5316\u6c34\u6676",
+      "attribute": [
+        { "attribute": "ability_power", "value": "160", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "600", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "800", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5b88\u62a4", "effect": "\u6bcf5\u70b9\u6cd5\u5f3a\u63d0\u53471\u70b9\u7269\u7406\u548c\u6cd5\u672f\u9632\u5fa1\uff0c\u6700\u591a\u63d0\u5347200\u70b9\u3002", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5deb\u672f\u6cd5\u6756": {
+    "rune_id": "9746",
+    "name": "\u5deb\u672f\u6cd5\u6756",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/46.png",
+      "price": "2120",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5149\u8f89\u4e4b\u5251,\u5492\u672f\u5178\u7c4d",
+      "attribute": [
+        { "attribute": "ability_power", "value": "140", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "8", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5492\u5203", "effect": "\u4f7f\u7528\u6280\u80fd\u540e\uff0c\u4e0b\u4e00\u6b21\u666e\u901a\u653b\u51fb\u9644\u52a0\u9ad8\u989d\u6cd5\u672f\u4f24\u5bb3\uff0c\u8fd9\u4e2a\u6548\u679c\u67092\u79d2\u7684\u51b7\u5374\u65f6\u95f4", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u75db\u82e6\u9762\u5177": {
+    "rune_id": "9745",
+    "name": "\u75db\u82e6\u9762\u5177",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/45.png",
+      "price": "2040",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u9b45\u5f71\u9762\u7f69,\u5492\u672f\u5178\u7c4d",
+      "attribute": [
+        { "attribute": "ability_power", "value": "140", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "500", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u6298\u78e8", "effect": "3\u79d2\u6301\u7eed\u707c\u70e7\uff0c\u6bcf\u79d2\u9020\u6210\u76f8\u5f53\u4e8e\u76ee\u6807\u5f53\u524d\u751f\u547d\u503c3%\u7684\u6cd5\u672f\u4f24\u5bb3", "type": "unique_passive" },
+        { "name": "", "effect": "+75\u6cd5\u672f\u7a7f\u900f", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u51b0\u971c\u6cd5\u6756": {
+    "rune_id": "9744",
+    "name": "\u51b0\u971c\u6cd5\u6756",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/44.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5927\u68d2,\u529b\u91cf\u8170\u5e26",
+      "attribute": [
+        { "attribute": "ability_power", "value": "150", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "1050", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u7ed3\u971c", "effect": "\u82f1\u96c4\u6280\u80fd\u9020\u6210\u4f24\u5bb3\u4f1a\u9644\u5e2620%\u7684\u51cf\u901f\u6548\u679c,\u6301\u7eed2\u79d2", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u535a\u5b66\u8005\u4e4b\u6012": {
+    "rune_id": "9743",
+    "name": "\u535a\u5b66\u8005\u4e4b\u6012",
+    "category": "fashu",
+    "tier": "3",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/43.png", "price": "2300", "detail": "", "parent_id": "", "child_id": "\u5927\u68d2,\u5492\u672f\u5178\u7c4d", "attribute": [{ "attribute": "ability_power", "value": "240", "unit": "point", "type": "normal", "unique": "0" }], "effect": [{ "name": "\u6bc1\u706d", "effect": "\u6cd5\u672f\u5f3a\u5ea6\u63d0\u534735%", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u865a\u65e0\u6cd5\u6756": {
+    "rune_id": "9742",
+    "name": "\u865a\u65e0\u6cd5\u6756",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/42.png",
+      "price": "1520",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "",
+      "attribute": [
+        { "attribute": "ability_power", "value": "180", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "500", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "45%\u6cd5\u672f\u7a7f\u900f", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u70bd\u70ed\u652f\u914d\u8005": {
+    "rune_id": "9741",
+    "name": "\u70bd\u70ed\u652f\u914d\u8005",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/41.png",
+      "price": "1950",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5927\u68d2,\u84dd\u5b9d\u77f3,\u70bc\u91d1\u62a4\u7b26",
+      "attribute": [
+        { "attribute": "ability_power", "value": "180", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "600", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana_regen", "value": "15", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u6cd5\u529b\u62a4\u76fe", "effect": "\u751f\u547d\u503c\u4f4e\u4e8e30%\u65f6\uff0c\u83b7\u5f97\u4e00\u4e2a\u5438\u6536\u4f24\u5bb3\u7684\u62a4\u76fe\uff0c\u5438\u6536\u4f24\u5bb3\u53d7\u7b49\u7ea7\u6210\u957f\u53ca\u6cd5\u672f\u52a0\u6210\uff0c\u88ab\u52a8\u6548\u679c\u89e6\u53d1\u65f6\u989d\u5916\u589e\u52a030%\u79fb\u52a8\u901f\u5ea6", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5723\u676f": {
+    "rune_id": "9740",
+    "name": "\u5723\u676f",
+    "category": "fashu",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/40.png",
+      "price": "2030",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5492\u672f\u5178\u7c4d,\u70bc\u91d1\u62a4\u7b26,\u5723\u8005\u6cd5\u5178,\u7834\u788e\u5723\u676f",
+      "attribute": [
+        { "attribute": "ability_power", "value": "180", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "15", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "mana_regen", "value": "25", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u6cd5\u529b\u6e90\u6cc9", "effect": "\u6bcf5\u79d2\u6062\u590d5%\u6700\u5927\u6cd5\u529b\u503c", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u8fdb\u5316\u6c34\u6676": {
+    "rune_id": "9739",
+    "name": "\u8fdb\u5316\u6c34\u6676",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/39.png",
+      "price": "720",
+      "detail": "",
+      "parent_id": "\u65f6\u4e4b\u9884\u8a00",
+      "child_id": "\u84dd\u5b9d\u77f3,\u7ea2\u739b\u7459",
+      "attribute": [
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "400", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u82f1\u52c7\u5956\u8d4f", "effect": "\u5347\u7ea7\u540e\u57283\u79d2\u5185\u56de\u590d20%\u751f\u547d\u503c\u4e0e\u6cd5\u529b\u503c", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u9b45\u5f71\u9762\u7f69": {
+    "rune_id": "9738",
+    "name": "\u9b45\u5f71\u9762\u7f69",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/38.png",
+      "price": "1020",
+      "detail": "",
+      "parent_id": "\u75db\u82e6\u9762\u5177,\u865a\u65e0\u6cd5\u6756",
+      "child_id": "\u5492\u672f\u5178\u7c4d,\u7ea2\u739b\u7459",
+      "attribute": [
+        { "attribute": "ability_power", "value": "70", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "300", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "75\u6cd5\u672f\u7a7f\u900f", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5149\u8f89\u4e4b\u5251": {
+    "rune_id": "9737",
+    "name": "\u5149\u8f89\u4e4b\u5251",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/37.png",
+      "price": "780",
+      "detail": "",
+      "parent_id": "\u5deb\u672f\u6cd5\u6756,\u51b0\u75d5\u4e4b\u63e1",
+      "child_id": "\u7ea2\u739b\u7459,\u84dd\u5b9d\u77f3",
+      "attribute": [
+        { "attribute": "health", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u5492\u5203", "effect": "\u4f7f\u7528\u6280\u80fd\u540e\uff0c\u4e0b\u4e00\u6b21\u666e\u901a\u653b\u51fb\u9644\u52a0\u6cd5\u672f\u4f24\u5bb3\uff0c\u8fd9\u4e2a\u6548\u679c\u67092\u79d2\u7684\u51b7\u5374\u65f6\u95f4", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u8840\u65cf\u4e4b\u4e66": {
+    "rune_id": "9736",
+    "name": "\u8840\u65cf\u4e4b\u4e66",
+    "category": "fashu",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/36.png",
+      "price": "1240",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5492\u672f\u5178\u7c4d,\u5723\u8005\u6cd5\u5178",
+      "attribute": [
+        { "attribute": "ability_power", "value": "75", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "\u589e\u52a020%\u6cd5\u672f\u5438\u8840", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5927\u68d2": {
+    "rune_id": "9735",
+    "name": "\u5927\u68d2",
+    "category": "fashu",
+    "tier": "2",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/35.png", "price": "820", "detail": "", "parent_id": "\u535a\u5b66\u8005\u4e4b\u6012,\u51b0\u971c\u6cd5\u6756,\u65f6\u4e4b\u9884\u8a00,\u8d24\u8005\u4e4b\u4e66,\u56de\u54cd\u4e4b\u6756,\u8f89\u6708,\u68a6\u9b47\u4e4b\u7259", "child_id": "\u5492\u672f\u5178\u7c4d", "attribute": [{ "attribute": "ability_power", "value": "120", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u5723\u8005\u6cd5\u5178": {
+    "rune_id": "9734",
+    "name": "\u5723\u8005\u6cd5\u5178",
+    "category": "fashu",
+    "tier": "1",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/34.png",
+      "price": "500",
+      "detail": "",
+      "parent_id": "\u8840\u65cf\u4e4b\u4e66,\u5723\u676f,\u8f89\u6708",
+      "child_id": "",
+      "attribute": [
+        { "attribute": "ability_power", "value": "20", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "8", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  },
+  "\u70bc\u91d1\u62a4\u7b26": { "rune_id": "9733", "name": "\u70bc\u91d1\u62a4\u7b26", "category": "fashu", "tier": "1", "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/33.png", "price": "120", "detail": "", "parent_id": "\u70bd\u70ed\u652f\u914d\u8005,\u7834\u788e\u5723\u676f", "child_id": "", "attribute": [{ "attribute": "mana_regen", "value": "10", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" } },
+  "\u84dd\u5b9d\u77f3": {
+    "rune_id": "9732",
+    "name": "\u84dd\u5b9d\u77f3",
+    "category": "fashu",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/32.png", "price": "220", "detail": "", "parent_id": "\u5149\u8f89\u4e4b\u5251,\u8fdb\u5316\u6c34\u6676,\u70bd\u70ed\u652f\u914d\u8005,\u96ea\u5c71\u5706\u76fe,\u7b26\u6587\u5927\u5251", "child_id": "", "attribute": [{ "attribute": "mana", "value": "300", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u5492\u672f\u5178\u7c4d": {
+    "rune_id": "9731",
+    "name": "\u5492\u672f\u5178\u7c4d",
+    "category": "fashu",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/31.png", "price": "300", "detail": "", "parent_id": "\u5927\u68d2,\u8840\u65cf\u4e4b\u4e66,\u5149\u8f89\u4e4b\u5251,\u9b45\u5f71\u9762\u7f69,\u5723\u676f,\u70bd\u70ed\u652f\u914d\u8005,\u7834\u788e\u5723\u676f,\u566c\u795e\u4e4b\u4e66", "child_id": "", "attribute": [{ "attribute": "ability_power", "value": "40", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u7834\u519b": {
+    "rune_id": "9730",
+    "name": "\u7834\u519b",
+    "category": "gongji",
+    "tier": "3",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/30.png", "price": "2950", "detail": "", "parent_id": "", "child_id": "\u98ce\u66b4\u5de8\u5251", "attribute": [{ "attribute": "attack_damage", "value": "200", "unit": "point", "type": "normal", "unique": "0" }], "effect": [{ "name": "\u7834\u519b", "effect": "\u76ee\u6807\u751f\u547d\u4f4e\u4e8e50%\u65f6\u4f24\u5bb3\u63d0\u9ad830%", "type": "unique_passive" }], "suit": "" }
+  },
+  "\u6697\u5f71\u6218\u65a7": {
+    "rune_id": "9729",
+    "name": "\u6697\u5f71\u6218\u65a7",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/29.png",
+      "price": "2090",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u65e5\u5195,\u9668\u661f",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "85", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "15", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "500", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u6b8b\u5e9f", "effect": "\u666e\u901a\u653b\u51fb\u670930%\u51e0\u7387\u964d\u4f4e\u654c\u4eba20%\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed2\u79d2\u3002", "type": "unique_passive" },
+        { "name": "\u5207\u5272", "effect": "\u589e\u52a0(100+\u82f1\u96c4\u7b49\u7ea7*10)\u70b9\u62a4\u7532\u7a7f\u900f", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u5f71\u5203": {
+    "rune_id": "9728",
+    "name": "\u5f71\u5203",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/28.png",
+      "price": "2070",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u72c2\u66b4\u53cc\u5203,\u5315\u9996",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "40", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u66b4\u98ce", "effect": "\u66b4\u51fb\u540e\u63d0\u5347\u81ea\u8eab20%\u653b\u51fb\u901f\u5ea6\uff0c\u6301\u7eed2\u79d2", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u95ea\u7535\u5315\u9996": {
+    "rune_id": "9727",
+    "name": "\u95ea\u7535\u5315\u9996",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/27.png",
+      "price": "1840",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u72c2\u66b4\u53cc\u5203,\u640f\u51fb\u62f3\u5957",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "30", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "8", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u7535\u5f27", "effect": "\u666e\u901a\u653b\u51fb\u670930%\u51e0\u7387\u91ca\u653e\u8fde\u9501\u95ea\u7535\uff0c\u5bf9\u76ee\u6807\u9020\u6210100\u6cd5\u672f\u4f24\u5bb3\uff08\u8be5\u6548\u679c\u67090.5\u79d2CD\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u5b97\u5e08\u4e4b\u529b": {
+    "rune_id": "9726",
+    "name": "\u5b97\u5e08\u4e4b\u529b",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170206/70-1F2061SP7.png",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u96f7\u9e23\u5203,\u5149\u8f89\u4e4b\u5251,\u51b2\u80fd\u62f3\u5957",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "60", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "20", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "mana", "value": "400", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "400", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [
+        { "name": "\u5492\u5203", "effect": "\u4e0b\u6b21\u653b\u51fb\u9020\u6210\u989d\u5916100%\u7269\u7406\u52a0\u6210\u7684\u4f24\u5bb3", "type": "unique_passive" },
+        { "name": "\u5f3a\u51fb", "effect": "\u589e\u52a0\u6548\u679c\u2014\u2014\u6bcf\u6b21\u4f7f\u7528\u6280\u80fd\u540e\u589e\u52a08%\u79fb\u901f\uff0c\u6301\u7eed2\u79d2\u3002\uff08\u4e0d\u53ef\u53e0\u52a0\uff09", "type": "unique_passive" }
+      ],
+      "suit": ""
+    }
+  },
+  "\u65e0\u5c3d\u6218\u5203": {
+    "rune_id": "9725",
+    "name": "\u65e0\u5c3d\u6218\u5203",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/25.png",
+      "price": "2140",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u98ce\u66b4\u5de8\u5251,\u51b2\u80fd\u62f3\u5957,\u94c1\u5251",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "120", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "20", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "+50%\u66b4\u51fb\u6548\u679c", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u6ce3\u8840\u4e4b\u5203": {
+    "rune_id": "9724",
+    "name": "\u6ce3\u8840\u4e4b\u5203",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/24.png",
+      "price": "1740",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u98ce\u66b4\u5de8\u5251,\u5438\u8840\u4e4b\u9570",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "life_steal", "value": "25", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  },
+  "\u788e\u661f\u9524": {
+    "rune_id": "9723",
+    "name": "\u788e\u661f\u9524",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/uploads/allimg/180502/194-1P502152641.jpg",
+      "price": "2100",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u94c1\u5251,\u9668\u661f",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "80", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "+45%\u7269\u7406\u62a4\u7532\u7a7f\u900f", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u540d\u5200\u00b7\u53f8\u547d": {
+    "rune_id": "9722",
+    "name": "\u540d\u5200\u00b7\u53f8\u547d",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/22.png",
+      "price": "1760",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u94c1\u5251,\u96f7\u9e23\u5203",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "60", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u6697\u5e55", "effect": "\u514d\u75ab\u81f4\u547d\u4f24\u5e76\u514d\u75ab\u4f24\u5bb3\u3001\u589e\u52a020%\u79fb\u52a8\u901f\u5ea6\u6301\u7eed1\u79d2\u8fd1\u6218/0.5\u79d2\u8fdc\u7a0b\uff0c90\u79d2\u51b7\u5374", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u672b\u4e16": {
+    "rune_id": "9721",
+    "name": "\u672b\u4e16",
+    "category": "gongji",
+    "tier": "3",
+    "info": {
+      "icon": "http://img.18183.com/uploads/allimg/170328/36-1F32QK114.png",
+      "price": "2160",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u5438\u8840\u4e4b\u9570,\u96f7\u9e23\u5203,\u5315\u9996,\u901f\u51fb\u4e4b\u67aa",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "60", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "attack_speed", "value": "30", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "life_steal", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u7834\u8d25", "effect": "\u666e\u901a\u653b\u51fb\u9644\u5e26\u76ee\u6807\u5f53\u524d\u751f\u547d\u503c8%\u7684\u7269\u7406\u4f24\u5bb3\uff08\u5bf9\u91ce\u602a\u6700\u591a\uff1a80\uff09", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u7834\u9b54\u5200": {
+    "rune_id": "9720",
+    "name": "\u7834\u9b54\u5200",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/20.png",
+      "price": "2000",
+      "detail": "",
+      "parent_id": "",
+      "child_id": "\u98ce\u66b4\u5de8\u5251,\u6297\u9b54\u62ab\u98ce",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "100", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "magic_resist", "value": "50", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u7834\u9b54", "effect": "\u589e\u52a0\u7b49\u540c\u4e8e\u81ea\u8eab\u7269\u7406\u653b\u51fb40%\u7684\u6cd5\u672f\u9632\u5fa1\uff0c\u6700\u591a\u589e\u52a0300\u70b9", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u9668\u661f": {
+    "rune_id": "9719",
+    "name": "\u9668\u661f",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170609/70-1F609101559.png",
+      "price": "1080",
+      "detail": "",
+      "parent_id": "\u6697\u5f71\u6218\u65a7,\u788e\u661f\u9524",
+      "child_id": "\u94c1\u5251",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "45", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "cooldown_reduction", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "", "effect": "+60\u62a4\u7532\u7a7f\u900f", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u72c2\u66b4\u53cc\u5203": {
+    "rune_id": "9718",
+    "name": "\u72c2\u66b4\u53cc\u5203",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/18.png",
+      "price": "890",
+      "detail": "",
+      "parent_id": "\u4e09\u5723\u4e4b\u529b,\u95ea\u7535\u5315\u9996,\u5f71\u5203",
+      "child_id": "\u5315\u9996,\u640f\u51fb\u62f3\u5957",
+      "attribute": [
+        { "attribute": "attack_speed", "value": "15", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "critical_strike_chance", "value": "10", "unit": "percent", "type": "normal", "unique": "0" },
+        { "attribute": "movement_speed", "value": "5", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  },
+  "\u640f\u51fb\u62f3\u5957": { "rune_id": "9717", "name": "\u640f\u51fb\u62f3\u5957", "category": "gongji", "tier": "1", "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/17.png", "price": "320", "detail": "", "parent_id": "\u72c2\u66b4\u53cc\u5203,\u95ea\u7535\u5315\u9996", "child_id": "", "attribute": [{ "attribute": "critical_strike_chance", "value": "8", "unit": "percent", "type": "normal", "unique": "0" }], "effect": [], "suit": "" } },
+  "\u5315\u9996": {
+    "rune_id": "9716",
+    "name": "\u5315\u9996",
+    "category": "gongji",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/16.png", "price": "290", "detail": "", "parent_id": "\u7a7f\u4e91\u5f13,\u72c2\u66b4\u53cc\u5203,\u7834\u706d\u541b\u4e3b,\u901f\u51fb\u4e4b\u67aa,\u5f71\u5203,\u7eaf\u51c0\u82cd\u7a79", "child_id": "", "attribute": [{ "attribute": "attack_speed", "value": "10", "unit": "percent", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u94c1\u5251": {
+    "rune_id": "9715",
+    "name": "\u94c1\u5251",
+    "category": "gongji",
+    "tier": "1",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/15.png", "price": "250", "detail": "", "parent_id": "\u98ce\u66b4\u5de8\u5251,\u65e5\u5195,\u9668\u661f,\u788e\u661f\u9524,\u65e0\u5c3d\u6218\u5203,\u540d\u5200\u00b7\u53f8\u547d,\u8840\u9b54\u4e4b\u6012,\u51b0\u971c\u957f\u77db", "child_id": "", "attribute": [{ "attribute": "attack_damage", "value": "20", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u65e5\u5195": {
+    "rune_id": "9714",
+    "name": "\u65e5\u5195",
+    "category": "gongji",
+    "tier": "2",
+    "info": {
+      "icon": "//img.18183.com/uploads/allimg/170206/70-1F2061SA9.png",
+      "price": "790",
+      "detail": "",
+      "parent_id": "\u5b97\u5e08\u4e4b\u529b,\u6697\u5f71\u6218\u65a7",
+      "child_id": "\u94c1\u5251",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "40", "unit": "point", "type": "normal", "unique": "0" },
+        { "attribute": "health", "value": "300", "unit": "point", "type": "normal", "unique": "0" }
+      ],
+      "effect": [{ "name": "\u6b8b\u5e9f", "effect": "\u666e\u901a\u653b\u51fb\u670930%\u51e0\u7387\u964d\u4f4e\u654c\u4eba20%\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed2\u79d2\u3002", "type": "unique_passive" }],
+      "suit": ""
+    }
+  },
+  "\u98ce\u66b4\u5de8\u5251": {
+    "rune_id": "9713",
+    "name": "\u98ce\u66b4\u5de8\u5251",
+    "category": "gongji",
+    "tier": "2",
+    "info": { "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/13.png", "price": "910", "detail": "", "parent_id": "\u6ce3\u8840\u4e4b\u5203,\u65e0\u5c3d\u6218\u5203,\u7834\u519b,\u51b0\u971c\u957f\u77db,\u53cd\u4f24\u523a\u7532", "child_id": "\u94c1\u5251", "attribute": [{ "attribute": "attack_damage", "value": "80", "unit": "point", "type": "normal", "unique": "0" }], "effect": [], "suit": "" }
+  },
+  "\u5438\u8840\u4e4b\u9570": {
+    "rune_id": "9712",
+    "name": "\u5438\u8840\u4e4b\u9570",
+    "category": "gongji",
+    "tier": "1",
+    "info": {
+      "icon": "http://img.18183.com/db_18183/static/wzry/static/images/equips/12.png",
+      "price": "410",
+      "detail": "",
+      "parent_id": "\u7834\u706d\u541b\u4e3b,\u6ce3\u8840\u4e4b\u5203",
+      "child_id": "",
+      "attribute": [
+        { "attribute": "attack_damage", "value": "10", "unit": "point", "type": "effect", "unique": "0" },
+        { "attribute": "life_steal", "value": "8", "unit": "percent", "type": "normal", "unique": "0" }
+      ],
+      "effect": [],
+      "suit": ""
+    }
+  }
+}
