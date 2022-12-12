@@ -30,7 +30,7 @@ if __name__ == "__main__":
             attrs = {}
             for attribute in heroAttributes:
                 attributeKP = attribute.text.split("：")
-                attrs[attributeKP[0]] = attributeKP[1]
+                attrs[attributeKP[0]] = attributeKP[1].strip()
             heroInfo['attributes'] = attrs
 
             # 技能
