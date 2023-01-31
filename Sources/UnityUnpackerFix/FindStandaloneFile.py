@@ -7,9 +7,9 @@ root = tk.Tk()
 root.withdraw()
 root.wm_attributes('-topmost', 1)
 
-# input_dir = filedialog.askdirectory()
-input_dir = "C:/Users/xsbug/OneDrive/Desktop/sk4.3.8/Sprite_sorted"
-output_dir = "C:/Users/xsbug/OneDrive/Desktop/sk4.3.8/Sprite_sorted/@standalone"
+input_dir = filedialog.askdirectory()
+# input_dir = "C:/Users/xsbug/OneDrive/Desktop/sk4.3.8/Sprite_sorted"
+output_dir = input_dir + "/@standalone"
 
 for root_dir, cur_dir, files in os.walk(input_dir):
     if len(files) == 1:

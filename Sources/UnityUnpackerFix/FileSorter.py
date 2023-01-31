@@ -9,7 +9,7 @@ root.withdraw()
 root.wm_attributes('-topmost', 1)
 
 input_dir = filedialog.askdirectory()
-input_dir = "C:/Users/xsbug/OneDrive/Desktop/sk4.3.8/Sprite"
+# input_dir = "C:/Users/xsbug/OneDrive/Desktop/sk4.3.8/Sprite"
 output_dir = os.path.dirname(input_dir) + '/' + os.path.basename(input_dir) + '_sorted'
 if not os.path.exists(output_dir):
     os.mkdir(output_dir)

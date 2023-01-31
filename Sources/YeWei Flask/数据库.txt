@@ -1,0 +1,83 @@
+create table Flower (
+  id int auto_increment primary key,
+  name varchar(40),
+  sku varchar(20),
+  price decimal(13, 2),
+  img varchar(200)
+);
+
+insert into Flower 
+  (name,sku,price,img)
+values
+  (
+    'The Ferrett\'s Daffodil',
+	'03F01',
+	79.95,
+	'http://localhost:5000/static/img/thumb01.jpg'
+  ),
+  (
+    'Spring Daffodils',
+	'03F03',
+	69.95,
+	'http://localhost:5000/static/img/thumb03.jpg'
+  ),
+  (
+    'Garden Flowers I',
+	'03F04',
+	79.95,
+	'http://localhost:5000/static/img/thumb04.jpg'
+  ),
+  (
+    'Garden Flowers II',
+	'03F05',
+	79.95,
+	'http://localhost:5000/static/img/thumb05.jpg'
+  ),
+  (
+    'Your Red Tulips',
+	'03F06',
+	79.95,
+	'http://localhost:5000/static/img/thumb06.jpg'
+  ),
+  (
+    'Starburst',
+	'03F07',
+	59.95,
+	'http://localhost:5000/static/img/thumb07.jpg'
+  ),
+  (
+    'Tiny Islands I',
+	'03F08',
+	79.95,
+	'http://localhost:5000/static/img/thumb08.jpg'
+  ),
+  (
+    'Tiny Islands II',
+	'03F09',
+	79.95,
+	'http://localhost:5000/static/img/thumb09.jpg'
+  ),
+  (
+    'Water Bloom I',
+	'03F10',
+	79.95,
+	'http://localhost:5000/static/img/thumb10.jpg'
+  ),
+  (
+    'Infalling',
+	'03F13',
+	59.95,
+	'http://localhost:5000/static/img/thumb13.jpg'
+  ),
+  (
+    'Floral Octopus',
+	'03F14',
+	59.95,
+	'http://localhost:5000/static/img/thumb14.jpg'
+  ),
+  (
+    'Fire Flower',
+	'03F16',
+	49.95,
+	'http://localhost:5000/static/img/thumb16.jpg'
+  );
