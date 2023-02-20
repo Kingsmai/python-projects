@@ -12,6 +12,9 @@ input_dir = filedialog.askdirectory()
 output_dir = input_dir + "/@standalone"
 
 for root_dir, cur_dir, files in os.walk(input_dir):
+    if len(files) == 2:
+        current_file = os.path.join(root_dir, files[0])
+        shutil.move(current_file, output_dir)
     if len(files) == 1:
         current_file = os.path.join(root_dir, files[0])
         shutil.move(current_file, output_dir)
