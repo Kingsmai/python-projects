@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="c15_skin2" value="1" />
+    <string name="p33_unlock">true</string>
+    <int name="c10_skin15" value="1" />
+    <int name="c11_skin9" value="1" />
+    <int name="c12_skin2" value="1" />
+    <string name="check_unlock_work_shop_time">637763933060000000</string>
+    <string name="complete_game_w3_3" />
+    <int name="c13_skin3" value="1" />
+    <int name="c_Priest_skill_0_unlock" value="1" />
+    <string name="c15_unlock">true</string>
+    <int name="c_Priest_skill_1_unlock" value="1" />
+    <int name="c10_skin14" value="1" />
+    <int name="complete_game_level_4" value="0" />
+    <int name="sample_random_seed" value="-1730269814" />
+    <int name="c0_skin2" value="1" />
+    <string name="p24_unlock">true</string>
+    <string name="c6_unlock">true</string>
+    <string name="p17_unlock">true</string>
+    <string name="hero_drawings_data">%7B%22DrawingSwitches%22%3A%7B%7D%2C%22ShowedNewDrawings%22%3A%5B%22TrapMaster_1%22%2C%22Knight_18%22%5D%7D</string>
+    <int name="sk_SKGIFT" value="1" />
+    <int name="c7_skin2" value="1" />
+    <int name="c0_skin14" value="1" />
+    <int name="c16_skin4" value="1" />
+    <int name="c1_skin12" value="1" />
+    <int name="achievement_weapon" value="5" />
+    <int name="c0_skin15" value="1" />
+    <int name="c1_skin0" value="1" />
+    <int name="c8_skin5" value="1" />
+    <int name="Normal_has_reborn" value="0" />
+    <int name="c18_level" value="7" />
+    <int name="c_Druid_skill_1_unlock" value="1" />
+    <int name="c22_skin3" value="1" />
+    <int name="magic_stone_index" value="0" />
+    <int name="c_Taoist_skill_1_unlock" value="1" />
+    <string name="unity.player_sessionid">4713879886253734517</string>
+    <int name="c3_skin5" value="1" />
+    <int name="c5_skin4" value="1" />
+    <int name="c_Airbender_skill_1_unlock" value="1" />
+    <string name="c21_unlock">true</string>
+    <int name="c_Taoist_skill_0_unlock" value="1" />
+    <int name="ta_properties_init" value="1" />
+    <string name="aram_certificate">
+        %7B%22level%22%3A16%2C%22projDatas%22%3A%5B%7B%22projType%22%3A1%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_3%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22drink_coconut%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_0%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2110%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_3%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_4%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22drink_clam%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_7%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A6%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22weapon_319%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A10%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3Anull%2C%22Factor%22%3A2%7D%2C%7B%22projType%22%3A9%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22statue_01%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2121%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2109%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22drink_clam%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A36%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_13%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22drink_coconut%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A14%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2108%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2104%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2175%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_21%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A8%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A6%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22weapon_296%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_0%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2115%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A14%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_6%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2108%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_0%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A11%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22wi7_telescopic%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A5%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2105%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2122%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2123%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_17%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A13%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2117%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_21%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_13%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_7%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_21%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2118%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2171%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_3%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2122%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_18%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2112%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_13%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_4%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2113%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_0%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_19%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A23%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_13%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_1%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_21%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A5%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A2105%2C%22prefabName%22%3Anull%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_16%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22drink_clam%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_4%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A6%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22weapon_116%22%2C%22Factor%22%3A0%7D%2C%7B%22projType%22%3A8%2C%22Hero%22%3A0%2C%22SkillIndex%22%3A0%2C%22Buff%22%3A0%2C%22prefabName%22%3A%22cooking_0%22%2C%22Factor%22%3A0%7D%5D%2C%22buffsCharactor%22%3A%5B9%5D%2C%22buffsAddition%22%3A%5B2110%2C2121%2C2109%2C36%2C14%2C2108%2C2104%2C2175%2C8%2C2115%2C5%2C2105%2C2122%2C2123%2C13%2C2117%2C2%2C2118%2C2171%2C2112%2C2113%2C23%5D%2C%22buffsCount%22%3A%5B1%2C1%2C1%2C1%2C1%2C2%2C2%2C1%2C1%2C1%2C1%2C1%2C2%2C2%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%5D%2C%22seasonCoin%22%3A485%2C%22gem%22%3A600%2C%22beamCount%22%3A4618%2C%22difficultyLevel%22%3A2%2C%22isBadass%22%3Afalse%2C%22battleFactors%22%3Anull%2C%22characterBuffs%22%3Anull%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3Anull%2C%22drinks%22%3A%5B%22drink_wine%22%2C%22cooking_3%22%2C%22cooking_18%22%2C%22drink_coconut%22%2C%22cooking_0%22%2C%22cooking_3%22%2C%22cooking_4%22%2C%22cooking_1%22%2C%22cooking_1%22%2C%22drink_clam%22%2C%22cooking_7%22%2C%22cooking_18%22%2C%22cooking_4%22%2C%22drink_clam%22%2C%22cooking_18%22%2C%22cooking_13%22%2C%22drink_coconut%22%2C%22cooking_1%22%2C%22cooking_9%22%2C%22cooking_21%22%2C%22cooking_0%22%2C%22cooking_18%22%2C%22cooking_3%22%2C%22cooking_1%22%2C%22cooking_18%22%2C%22cooking_6%22%2C%22cooking_0%22%2C%22cooking_18%22%2C%22cooking_17%22%2C%22cooking_1%22%2C%22cooking_9%22%2C%22drink_milk%22%2C%22cooking_3%22%2C%22cooking_21%22%2C%22cooking_13%22%2C%22cooking_7%22%2C%22cooking_21%22%2C%22cooking_0%22%2C%22cooking_1%22%2C%22cooking_18%22%2C%22cooking_3%22%2C%22cooking_18%22%2C%22cooking_1%22%2C%22cooking_18%22%2C%22cooking_13%22%2C%22cooking_4%22%2C%22cooking_0%22%2C%22drink_bloody_mary%22%2C%22cooking_4%22%2C%22cooking_13%22%2C%22cooking_18%22%2C%22cooking_0%22%2C%22cooking_19%22%2C%22cooking_13%22%2C%22cooking_1%22%2C%22cooking_21%22%2C%22cooking_16%22%2C%22cooking_16%22%2C%22drink_coconut%22%2C%22drink_clam%22%2C%22cooking_4%22%2C%22cooking_0%22%5D%2C%22weaponNames%22%3A%5B%22weapon_116%22%2C%22weapon_296%22%5D%2C%22weaponItems%22%3Anull%2C%22costTime%22%3A%2200%3A20%3A57%22%2C%22magicStoneIdx%22%3A0%2C%22version%22%3A%22%22%2C%22gameMode%22%3A9%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A5%2C%22characterSkinIdx%22%3A10%2C%22petIndex%22%3A0%2C%22skillIndex%22%3A0%2C%22date%22%3A%2223-02-05%22%2C%22killCount%22%3A810%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A75620%2C%22get%22%3Afalse%7D
+    </string>
+    <int name="c14_skin2" value="1" />
+    <int name="c_SpecialForces_skill_0_unlock" value="1" />
+    <int name="c_Officer_skill_1_unlock" value="1" />
+    <int name="c2_skin9" value="1" />
+    <int name="c14_skin9" value="1" />
+    <string name="c10_unlock">true</string>
+    <int name="c14_skin4" value="1" />
+    <int name="c13_skin8" value="1" />
+    <string name="p28_unlock">true</string>
+    <int name="c10_skin8" value="1" />
+    <int name="c5_skin8" value="1" />
+    <string name="complete_game_w2_0" />
+    <int name="c5_skin9" value="1" />
+    <string name="complete_game_time_0" />
+    <int name="c_Transcendent_skill_0_unlock" value="1" />
+    <int name="c7_skin1" value="1" />
+    <string name="p25_unlock">true</string>
+    <int name="retired_knight_today_exchange_times" value="0" />
+    <string name="p0_unlock">true</string>
+    <int name="c9_skin5" value="1" />
+    <int name="show_post_man" value="1" />
+    <int name="c25_skin0" value="1" />
+    <int name="c10_skin11" value="1" />
+    <int name="c14_level" value="8" />
+    <int name="c1_skin1" value="1" />
+    <int name="c6_skin2" value="1" />
+    <int name="c_Necromancer_skill_1_unlock" value="1" />
+    <int name="c2_skin12" value="1" />
+    <string name="c19_unlock">true</string>
+    <string name="c18_unlock">true</string>
+    <int name="c_Airbender_skill_0_unlock" value="1" />
+    <int name="sk_Druid" value="1" />
+    <string name="p10_unlock">true</string>
+    <int name="c0_skin11" value="1" />
+    <int name="c_Paladin_skill_2_unlock" value="1" />
+    <int name="c11_skin6" value="1" />
+    <int name="c4_skin1" value="1" />
+    <int name="c4_skin3" value="1" />
+    <int name="c4_skin8" value="1" />
+    <int name="c12_skin10" value="1" />
+    <string name="complete_game_w1_5" />
+    <string name="p15_unlock">true</string>
+    <string name="complete_game_time_3">21-01-29</string>
+    <int name="last_play_time_with_network_time" value="8439" />
+    <int name="c_Vampire_skill_2_unlock" value="1" />
+    <string name="complete_game_w1_3">weapon_181</string>
+    <int name="c5_level" value="8" />
+    <int name="magic_well_fished_times" value="0" />
+    <int name="c_Robot_skill_1_unlock" value="1" />
+    <int name="c0_skin12" value="1" />
+    <int name="room_level" value="10" />
+    <string name="complete_game_name_2">Character0_name_skin0</string>
+    <int name="c0_skin0" value="1" />
+    <int name="c14_skin7" value="1" />
+    <int name="c11_skin2" value="1" />
+    <int name="c16_skin6" value="1" />
+    <int name="c4_skin6" value="1" />
+    <int name="c_Viking_skill_2_unlock" value="1" />
+    <int name="c4_skin4" value="1" />
+    <int name="c16_skin5" value="1" />
+    <int name="c_Vampire_skill_1_unlock" value="1" />
+    <string name="is_wave_machine_upgraded">False</string>
+    <string name="c22_unlock">true</string>
+    <int name="c2_skin4" value="1" />
+    <int name="c7_skin15" value="1" />
+    <int name="c_Officer_skill_0_unlock" value="1" />
+    <int name="c6_skin5" value="1" />
+    <int name="c13_skin15" value="1" />
+    <int name="c6_skin13" value="1" />
+    <int name="c_Officer_skill_2_unlock" value="1" />
+    <int name="c7_skin4" value="1" />
+    <int name="c10_skin7" value="1" />
+    <int name="c6_skin4" value="1" />
+    <string name="c0_unlock">true</string>
+    <int name="c16_skin10" value="1" />
+    <int name="c_Alchemist_skill_1_unlock" value="1" />
+    <string name="p3_unlock">true</string>
+    <int name="c20_level" value="7" />
+    <int name="c16_skin0" value="1" />
+    <string name="tutorial_end_time" />
+    <int name="c_Engineer_skill_2_unlock" value="1" />
+    <int name="c13_skin2" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="c8_skin10" value="1" />
+    <int name="egg_machine_times" value="30" />
+    <int name="c16_skin8" value="1" />
+    <int name="complete_game_level_6" value="0" />
+    <int name="c_Werewolf_skill_0_unlock" value="1" />
+    <int name="complete_game_level_3" value="1" />
+    <int name="c1_skin16" value="1" />
+    <int name="c23_skin2" value="1" />
+    <int name="c_Mage_skill_1_unlock" value="1" />
+    <int name="c2_skin14" value="1" />
+    <int name="c10_level" value="8" />
+    <int name="c24_skin1" value="1" />
+    <int name="c1_skin9" value="1" />
+    <int name="c2_skin5" value="1" />
+    <int name="c4_skin10" value="1" />
+    <int name="c0_skin17" value="1" />
+    <int name="c_Necromancer_skill_2_unlock" value="1" />
+    <string name="complete_game_time_4" />
+    <int name="furniture_chest" value="1" />
+    <int name="c12_skin0" value="1" />
+    <string name="complete_game_w3_2" />
+    <int name="c22_skin2" value="1" />
+    <int name="c22_level" value="7" />
+    <int name="c8_skin9" value="1" />
+    <int name="c3_skin7" value="1" />
+    <int name="c_Miner_skill_0_unlock" value="1" />
+    <int name="c11_skin12" value="1" />
+    <int name="upload2022SumOri" value="1" />
+    <string name="I2%20Language">Chinese</string>
+    <string name="normal_certificate_3">
+        %7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A11%2C%22characterSkinIdx%22%3A8%2C%22petIndex%22%3A0%2C%22skillIndex%22%3A0%2C%22date%22%3A%2221-01-29%22%2C%22killCount%22%3A0%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A0%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B%5D%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%22weapon_181%22%2C%22weapon_174%22%5D%2C%22weaponItems%22%3A%5B%5D%2C%22costTime%22%3A%220%3A30%3A26%22%2C%22magicStoneIdx%22%3A3%2C%22version%22%3A%22%22%7D
+    </string>
+    <int name="c2_skin7" value="1" />
+    <int name="c1_skin14" value="1" />
+    <int name="c_Robot_skill_2_unlock" value="1" />
+    <int name="c23_skin3" value="1" />
+    <int name="c6_skin7" value="1" />
+    <int name="has_season_data" value="1" />
+    <int name="c3_skin10" value="1" />
+    <string name="p6_unlock">true</string>
+    <string name="p31_unlock">true</string>
+    <int name="has_statistic_data" value="1" />
+    <string name="complete_game_w2_6" />
+    <int name="c11_skin7" value="1" />
+    <int name="first_active" value="1" />
+    <string name="c8_unlock">true</string>
+    <int name="c7_skin13" value="1" />
+    <int name="c11_skin8" value="1" />
+    <int name="c12_skin1" value="1" />
+    <string name="c5_unlock">true</string>
+    <string name="c7_unlock">true</string>
+    <int name="c14_skin10" value="1" />
+    <int name="c7_skin0" value="1" />
+    <int name="c_Engineer_skill_1_unlock" value="1" />
+    <int name="c9_skin1" value="1" />
+    <int name="c11_skin0" value="1" />
+    <int name="c_Engineer_skill_0_unlock" value="1" />
+    <string name="p29_unlock">true</string>
+    <int name="c10_skin9" value="1" />
+    <string name="retired_knight_got_ad_item_time">01%2F01%2F2023%2000%3A00%3A00</string>
+    <int name="c13_skin12" value="1" />
+    <string name="p22_unlock">true</string>
+    <string name="p35_unlock">true</string>
+    <int name="c3_skin3" value="1" />
+    <string name="p11_unlock">true</string>
+    <int name="c15_skin4" value="1" />
+    <string name="skill_demo_switch">True</string>
+    <int name="c9_skin12" value="1" />
+    <int name="c3_skin6" value="1" />
+    <int name="c7_skin9" value="1" />
+    <int name="c_Priest_skill_2_unlock" value="1" />
+    <int name="c2_skin2" value="1" />
+    <string name="complete_game_w2_5" />
+    <int name="c_Werewolf_skill_2_unlock" value="1" />
+    <int name="c10_skin4" value="1" />
+    <string name="p8_unlock">true</string>
+    <int name="c5_skin6" value="1" />
+    <int name="c5_skin10" value="1" />
+    <int name="c5_skin1" value="1" />
+    <int name="super_hero_in_hero_room" value="17" />
+    <int name="c_Robot_skill_0_unlock" value="1" />
+    <string name="c16_unlock">true</string>
+    <int name="c_Ranger_skill_2_unlock" value="1" />
+    <string name="complete_game_name_1">Character3_name_skin0</string>
+    <int name="c8_skin3" value="1" />
+    <int name="c14_skin6" value="1" />
+    <string name="p19_unlock">true</string>
+    <int name="c_Druid_skill_2_unlock" value="1" />
+    <int name="c6_skin6" value="1" />
+    <int name="c23_skin1" value="1" />
+    <int name="c6_skin12" value="1" />
+    <int name="c3_skin4" value="1" />
+    <int name="c14_skin0" value="1" />
+    <int name="c0_skin16" value="1" />
+    <string name="p30_unlock">true</string>
+    <int name="total_game_time" value="4233" />
+    <string name="c20_unlock">true</string>
+    <int name="c2_skin15" value="1" />
+    <int name="c7_skin10" value="1" />
+    <int name="c1_skin6" value="1" />
+    <int name="c5_skin0" value="1" />
+    <string name="complete_game_name_0">Character0_name_skin0</string>
+    <string name="p18_unlock">true</string>
+    <int name="c4_skin9" value="1" />
+    <int name="c8_skin0" value="1" />
+    <int name="c5_skin7" value="1" />
+    <int name="c_Beheaded_skill_0_unlock" value="1" />
+    <int name="c20_skin0" value="1" />
+    <string name="p5_unlock">true</string>
+    <string name="complete_game_w2_1">weapon_181</string>
+    <int name="c1_skin8" value="1" />
+    <int name="c11_skin13" value="1" />
+    <int name="furniture_fish_chips" value="0" />
+    <string name="complete_game_time_5" />
+    <int name="c9_skin11" value="1" />
+    <int name="c5_skin14" value="1" />
+    <int name="c2_level" value="8" />
+    <int name="c13_skin0" value="1" />
+    <int name="c13_skin6" value="1" />
+    <string name="LastConfigBranch">GP</string>
+    <int name="c8_level" value="8" />
+    <int name="Screenmanager%20Resolution%20Height" value="900" />
+    <string name="promo_otherworld_video_url">
+        https%3A%2F%2Fcdn.chillyroom.com%2FChillyTv%2Fpromovideo%2FotherworldEN.mp4
+    </string>
+    <int name="c14_skin5" value="1" />
+    <string name="c24_unlock">true</string>
+    <string name="LastConfigVersion">5.0.3</string>
+    <int name="c1_skin10" value="1" />
+    <int name="c18_skin0" value="1" />
+    <string name="unity.cloud_userid">ff7169e5ee4fae661bb8544adf310150</string>
+    <int name="c15_level" value="8" />
+    <int name="c_Werewolf_skill_1_unlock" value="1" />
+    <int name="c_Warlock_skill_0_unlock" value="1" />
+    <string name="complete_game_w3_5" />
+    <int name="c3_skin14" value="1" />
+    <int name="c8_skin8" value="1" />
+    <int name="c1_skin3" value="1" />
+    <int name="c2_skin0" value="1" />
+    <int name="c19_skin0" value="1" />
+    <int name="furniture_plant_level" value="5" />
+    <int name="c3_skin13" value="1" />
+    <int name="c7_skin16" value="1" />
+    <int name="furniture_pet_food_level" value="5" />
+    <int name="last_recode_enter_ui_title" value="8439" />
+    <int name="c_Vampire_skill_0_unlock" value="1" />
+    <int name="c_Assassin_skill_1_unlock" value="1" />
+    <int name="c3_skin0" value="1" />
+    <int name="c10_skin1" value="1" />
+    <int name="c23_skin0" value="1" />
+    <int name="c9_skin9" value="1" />
+    <int name="c0_level" value="8" />
+    <int name="c_TrapMaster_skill_0_unlock" value="1" />
+    <string name="complete_game_time_6" />
+    <int name="c11_level" value="7" />
+    <int name="c6_skin9" value="1" />
+    <int name="complete_game_level_2" value="1" />
+    <string name="complete_game_name_3">Character11_name_skin0</string>
+    <int name="c2_skin1" value="1" />
+    <int name="need_guide_season_or_defence" value="0" />
+    <int name="c9_skin0" value="1" />
+    <int name="c_Ranger_skill_0_unlock" value="1" />
+    <int name="c13_level" value="7" />
+    <int name="c15_skin1" value="1" />
+    <int name="c3_skin9" value="1" />
+    <string name="p13_unlock">true</string>
+    <int name="reborn_card" value="0" />
+    <int name="c1_skin15" value="1" />
+    <int name="c15_skin9" value="1" />
+    <int name="c6_skin0" value="1" />
+    <int name="c9_skin15" value="1" />
+    <int name="has_tutorial" value="1" />
+    <int name="c16_skin7" value="1" />
+    <int name="c11_skin10" value="1" />
+    <int name="c6_skin3" value="1" />
+    <int name="c12_level" value="7" />
+    <int name="c25_skin1" value="1" />
+    <int name="c6_skin1" value="1" />
+    <string name="complete_game_name_5">Character0_name_skin0</string>
+    <string name="complete_game_name_4">Character0_name_skin0</string>
+    <string name="p7_unlock">true</string>
+    <int name="c16_skin2" value="1" />
+    <int name="first_play" value="1" />
+    <int name="c_Knight_skill_2_unlock" value="1" />
+    <int name="last_gems" value="9313563" />
+    <string name="p26_unlock">true</string>
+    <int name="c9_level" value="7" />
+    <string name="complete_game_name_6">Character0_name_skin0</string>
+    <string name="complete_game_w3_4" />
+    <int name="local_season_box_factor" value="914220040" />
+    <int name="c8_skin2" value="1" />
+    <int name="c12_skin8" value="1" />
+    <int name="c11_skin11" value="1" />
+    <int name="c3_skin16" value="1" />
+    <int name="c9_skin16" value="1" />
+    <int name="c_Knight_skill" value="0" />
+    <int name="c_Taoist_skill_2_unlock" value="1" />
+    <int name="has_setLanguage" value="1" />
+    <int name="c2_skin3" value="1" />
+    <int name="c1_skin4" value="1" />
+    <int name="complete_game_level_1" value="1" />
+    <int name="c13_skin14" value="1" />
+    <int name="c9_skin13" value="1" />
+    <string name="c9_unlock">true</string>
+    <int name="c_Ranger_skill_1_unlock" value="1" />
+    <int name="c15_skin0" value="1" />
+    <int name="gems" value="9313683" />
+    <int name="c13_skin13" value="1" />
+    <int name="c0_skin13" value="1" />
+    <int name="c11_skin3" value="1" />
+    <string name="unity.player_session_count">15</string>
+    <int name="c8_skin7" value="1" />
+    <string name="p27_unlock">true</string>
+    <string name="complete_game_w2_4" />
+    <int name="c13_skin7" value="1" />
+    <int name="c11_skin1" value="1" />
+    <int name="c8_skin1" value="1" />
+    <int name="c16_skin9" value="1" />
+    <int name="c1_skin13" value="1" />
+    <int name="general_random_seed" value="-1318502582" />
+    <int name="c21_level" value="7" />
+    <string name="c11_unlock">true</string>
+    <int name="c_Paladin_skill_0_unlock" value="1" />
+    <int name="c13_skin4" value="1" />
+    <int name="c3_skin15" value="1" />
+    <int name="c7_skin12" value="1" />
+    <int name="c_Alchemist_skill_2_unlock" value="1" />
+    <int name="c17_level" value="7" />
+    <int name="c12_skin7" value="1" />
+    <int name="c13_skin1" value="1" />
+    <int name="c6_level" value="7" />
+    <int name="c7_level" value="7" />
+    <string name="host_room_name">%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB</string>
+    <int name="complete_game_level_0" value="0" />
+    <int name="c_Elves_skill_1_unlock" value="1" />
+    <int name="c7_skin8" value="1" />
+    <int name="c21_skin0" value="1" />
+    <int name="c0_skin6" value="1" />
+    <int name="c0_skin9" value="1" />
+    <int name="c_Elves_skill_0_unlock" value="1" />
+    <int name="c15_skin3" value="1" />
+    <int name="c_Envoy_skill_0_unlock" value="1" />
+    <int name="c13_skin11" value="1" />
+    <int name="game_times" value="4864" />
+    <int name="c5_skin3" value="1" />
+    <string name="c1_unlock">true</string>
+    <string name="c2_unlock">true</string>
+    <int name="c23_level" value="0" />
+    <int name="c9_skin2" value="1" />
+    <int name="c2_skin13" value="1" />
+    <int name="c4_skin2" value="1" />
+    <int name="c17_skin0" value="1" />
+    <string name="c25_unlock">true</string>
+    <string name="complete_game_w1_0" />
+    <int name="c0_skin1" value="1" />
+    <int name="c_Druid_skill_0_unlock" value="1" />
+    <int name="c7_skin6" value="1" />
+    <int name="c3_skin1" value="1" />
+    <string name="p4_unlock">true</string>
+    <int name="Screenmanager%20Resolution%20Width" value="1600" />
+    <int name="sk_duoshou" value="1" />
+    <int name="c16_skin3" value="1" />
+    <int name="c2_skin10" value="1" />
+    <int name="c4_skin5" value="1" />
+    <int name="c3_skin8" value="1" />
+    <string name="cloudSaveId" />
+    <string name="p23_unlock">true</string>
+    <int name="c10_skin0" value="1" />
+    <int name="c10_skin2" value="1" />
+    <int name="c_Necromancer_skill_0_unlock" value="1" />
+    <string name="complete_game_w3_1" />
+    <int name="var_gems" value="120" />
+    <int name="c14_skin8" value="1" />
+    <int name="c5_skin11" value="1" />
+    <int name="c2_skin8" value="1" />
+    <int name="sk_SKNIGHT" value="1" />
+    <int name="c12_skin12" value="1" />
+    <string name="c12_unlock">true</string>
+    <string name="complete_game_w2_3">weapon_174</string>
+    <string name="account_enter_game_count_today">8439_14</string>
+    <int name="c10_skin5" value="1" />
+    <int name="c12_skin13" value="1" />
+    <int name="last_day_index" value="0" />
+    <string name="p2_unlock">true</string>
+    <int name="c16_level" value="7" />
+    <string name="c3_unlock">true</string>
+    <string name="c13_unlock">true</string>
+    <int name="complete_game_level_5" value="0" />
+    <int name="c6_skin10" value="1" />
+    <int name="c12_skin6" value="1" />
+    <int name="c_Paladin_skill_1_unlock" value="1" />
+    <int name="c_Mage_skill_0_unlock" value="1" />
+    <int name="c15_skin7" value="1" />
+    <string name="p32_unlock">true</string>
+    <int name="c8_skin13" value="1" />
+    <string name="p34_unlock">true</string>
+    <int name="c_Mage_skill_2_unlock" value="1" />
+    <int name="c11_skin5" value="1" />
+    <int name="c13_skin5" value="1" />
+    <int name="SKIP_DEFENCE_PLOT" value="0" />
+    <int name="furniture_book_level" value="5" />
+    <int name="c12_skin9" value="1" />
+    <int name="c0_skin4" value="1" />
+    <int name="c3_skin11" value="1" />
+    <int name="c19_level" value="7" />
+    <string name="p21_unlock">true</string>
+    <int name="c4_skin7" value="1" />
+    <int name="c12_skin4" value="1" />
+    <int name="c16_skin1" value="1" />
+    <int name="c12_skin11" value="1" />
+    <string name="normal_certificate_1">
+        %7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A3%2C%22characterSkinIdx%22%3A3%2C%22petIndex%22%3A0%2C%22skillIndex%22%3A0%2C%22date%22%3A%2220-08-11%22%2C%22killCount%22%3A0%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A0%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B%5D%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%22weapon_043%22%2C%22weapon_181%22%5D%2C%22weaponItems%22%3A%5B%5D%2C%22costTime%22%3A%220%3A27%3A32%22%2C%22magicStoneIdx%22%3A1%2C%22version%22%3A%22%22%7D
+    </string>
+    <int name="c11_skin4" value="1" />
+    <string name="total_enter_game_count_today">8439_14</string>
+    <int name="quan_watch_tv" value="0" />
+    <int name="c1_skin2" value="1" />
+    <int name="c9_skin14" value="1" />
+    <int name="c0_skin8" value="1" />
+    <int name="c22_skin1" value="1" />
+    <int name="c8_skin12" value="1" />
+    <int name="c1_skin7" value="1" />
+    <int name="c7_skin5" value="1" />
+    <int name="c24_level" value="7" />
+    <int name="c_Elves_skill_2_unlock" value="1" />
+    <int name="c1_skin5" value="1" />
+    <int name="furniture_safe_level" value="5" />
+    <int name="c13_skin16" value="1" />
+    <int name="c9_skin8" value="1" />
+    <string name="set_up_skin">True</string>
+    <int name="c5_skin15" value="1" />
+    <int name="c_Ninja_skill_0_unlock" value="1" />
+    <int name="c12_skin3" value="1" />
+    <int name="c15_skin6" value="1" />
+    <int name="c10_skin12" value="1" />
+    <int name="first_in_room" value="545" />
+    <int name="c5_skin5" value="1" />
+    <int name="c4_skin0" value="1" />
+    <int name="c3_skin2" value="1" />
+    <int name="c5_skin2" value="1" />
+    <int name="c3_level" value="7" />
+    <int name="show_ad_time" value="0" />
+    <string name="p12_unlock">true</string>
+    <int name="c13_skin9" value="1" />
+    <int name="c_Viking_skill_1_unlock" value="1" />
+    <int name="c24_skin0" value="1" />
+    <int name="c_Knight_skill_0_unlock" value="1" />
+    <int name="c0_skin5" value="1" />
+    <int name="last_play_version" value="2125" />
+    <int name="c_Alchemist_skill_0_unlock" value="1" />
+    <string name="p20_unlock">true</string>
+    <string name="has_save_date">False</string>
+    <int name="c7_skin7" value="1" />
+    <int name="c6_skin11" value="1" />
+    <int name="c0_skin3" value="1" />
+    <string name="complete_game_w3_0" />
+    <string name="complete_game_w1_2">weapon_047</string>
+    <string name="complete_game_w3_6" />
+    <int name="c9_skin7" value="1" />
+    <int name="c4_skin11" value="1" />
+    <string name="complete_game_time_1">20-08-11</string>
+    <int name="c10_skin13" value="1" />
+    <string name="c14_unlock">true</string>
+    <int name="c8_skin4" value="1" />
+    <int name="c5_skin12" value="1" />
+    <int name="last_play_time" value="8439" />
+    <int name="c9_skin4" value="1" />
+    <string name="p9_unlock">true</string>
+    <int name="c_Viking_skill_0_unlock" value="1" />
+    <int name="font_setting_value" value="1" />
+    <string name="p16_unlock">true</string>
+    <int name="c4_level" value="7" />
+    <string name="complete_game_time_2">21-03-23</string>
+    <int name="c25_level" value="0" />
+    <string name="normal_certificate_2">
+        %7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A0%2C%22characterSkinIdx%22%3A0%2C%22petIndex%22%3A0%2C%22skillIndex%22%3A0%2C%22date%22%3A%2221-03-23%22%2C%22killCount%22%3A0%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A0%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B%5D%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%22weapon_047%22%2C%22weapon_175%22%5D%2C%22weaponItems%22%3A%5B%5D%2C%22costTime%22%3A%220%3A22%3A51%22%2C%22magicStoneIdx%22%3A2%2C%22version%22%3A%22%22%7D
+    </string>
+    <string name="p14_unlock">true</string>
+    <int name="c6_skin8" value="1" />
+    <int name="c7_skin14" value="1" />
+    <int name="c10_skin10" value="1" />
+    <string name="complete_game_w1_6" />
+    <int name="c15_skin5" value="1" />
+    <int name="c13_skin10" value="1" />
+    <int name="otherworldpromote_version" value="3" />
+    <int name="c0_skin10" value="1" />
+    <int name="c22_skin0" value="1" />
+    <string name="c23_unlock">true</string>
+    <string name="complete_game_w1_4" />
+    <string name="c4_unlock">true</string>
+    <int name="c15_skin8" value="1" />
+    <int name="c12_skin5" value="1" />
+    <int name="c3_skin12" value="1" />
+    <int name="c8_skin11" value="1" />
+    <int name="sk_100000" value="1" />
+    <int name="c8_skin6" value="1" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="c2_skin11" value="1" />
+    <int name="c_Knight_skill_1_unlock" value="1" />
+    <int name="c1_level" value="7" />
+    <int name="c9_skin10" value="1" />
+    <string name="complete_game_w1_1">weapon_043</string>
+    <int name="c9_skin3" value="1" />
+    <int name="c_Assassin_skill_0_unlock" value="1" />
+    <int name="c9_skin6" value="1" />
+    <int name="c10_skin6" value="1" />
+    <int name="pet_feed_count" value="0" />
+    <int name="c5_skin13" value="1" />
+    <int name="c0_skin7" value="1" />
+    <int name="enter_ui_title_daily" value="25" />
+    <int name="has_item_data" value="1" />
+    <int name="c_Assassin_skill_2_unlock" value="1" />
+    <int name="c1_skin11" value="1" />
+    <int name="c14_skin3" value="1" />
+    <int name="c7_skin3" value="1" />
+    <string name="complete_game_w2_2">weapon_175</string>
+    <string name="p1_unlock">true</string>
+    <int name="c0_skin18" value="1" />
+    <int name="c2_skin6" value="1" />
+    <string name="c17_unlock">true</string>
+    <int name="c14_skin1" value="1" />
+    <int name="c10_skin3" value="1" />
+    <int name="c7_skin11" value="1" />
+</map>

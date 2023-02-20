@@ -1,68 +1,38 @@
-import os
-import tkinter as tk
-from tkinter import filedialog
-from PIL import Image
+import xml.etree.ElementTree as ET
+import re
 
-root = tk.Tk()
-root.withdraw()
-root.wm_attributes("-topmost", 1)
+with open("Data/sk_playerprefs_v2.xml", 'r', encoding="utf-8") as file_lines:
+    xml_string = ""
+    for line in file_lines:
+        xml_string += line
 
-extensions = [("Images", ".jpeg .jpg .png .bmp .gif .ppm .tiff")]
+tree = ET.ElementTree(ET.fromstring(xml_string))
+root = tree.getroot()
 
-file_path = filedialog.askopenfilename(filetypes=extensions)
+root = ET.fromstring(xml_string)
 
-img = Image.open(file_path, mode='r')
-print(file_path)
-print(img)
-print("Image width: %s; height: %s" % (img.width, img.height))
-width, height = img.size
-print("Image size:", img.size)
-print("Image format:", img.format)
-print("Image is", ("readonly" if img.readonly else "read write"))
-print("Image info:", img.info)
-print("Image mode:", img.mode)
+# Sort
+# root[:] = sorted(root, key=lambda child: (child.tag, child.get('name')))
 
-all_pixels = set()
+for child in root.iter('int'):
+    if re.match(r"c\d+_skin\d+", child.get("name")):
+        print(child.get("name"))
+        child.set("value", "1")
+    if child.get("name") == "gems" and child.get("name") == "var_gems" and child.get("name") == "last_gems":
+        child.set("value", "99999999")
+    if re.match(r"c_\w+_skill_\d+_unlock", child.get("name")):
+        child.set("value", "1")
 
-# Process every pixel
-for x in range(width):
-    for y in range(height):
-        current_color = img.getpixel((x, y))
-        ####################################################################
-        # Do your logic here and create a new (R,G,B) tuple called new_color
-        if current_color[3] == 0:
-            new_color = (0, 0, 0, 0)
-        else:
-            new_color = current_color
-            all_pixels.add(current_color)
-        ####################################################################
-        img.putpixel((x, y), new_color)
+for child in root.iter('string'):
+    if re.match(r"c\d+_unlock", child.get("name")):
+        child.text = "true"
+    # if re.match(r"p\d+_unlock", child.get("name")):
+    #     child.text = "true"
 
-# print(all_pixels)
+# tree.write("Output/sk_playerprefs_v2.xml", encoding="utf-8")
 
-# Generate color palette
-color_palette = Image.new("RGBA", (1, len(all_pixels)))
-print("Color Palette size:", color_palette.size)
-for y, pixel in enumerate(all_pixels):
-    color_palette.putpixel((0, y), pixel)
-
-# pixels = list(img.getdata())
-# pixels = [pixels[i * width: (i + 1) * width] for i in range(height)]
+xmlstr = ET.tostring(root, encoding="utf-8", method="xml")
 #
-# pprint(pixels)
-
-####################################################################
-# Save
-####################################################################
-
-# mod_image_filepath = '/'.join(file_path.split('/')[:-1]) + '/' + file_path.split('/')[-1].split('.')[0] + ".mod.png"
-# print(mod_image_filepath)
-# img.save(mod_image_filepath)
-
-# Save color palette
-# color_palette_filepath = \
-#     '/'.join(file_path.split('/')[:-1]) + '/' + file_path.split('/')[-1].split('.')[0] + ".plt.png"
-# print(color_palette_filepath)
-# color_palette.save(color_palette_filepath)
-
-img.save(file_path)
+with open("Output/sk_playerprefs_v2.xml", 'w', encoding="utf-8") as new_file:
+    new_file.write("<?xml version='1.0' encoding='utf-8' standalone='yes' ?>\n")
+    new_file.write(xmlstr.decode("utf-8"))
