@@ -1,38 +1,18 @@
-import xml.etree.ElementTree as ET
-import re
+# 变量 income 接受 租金收入
+# 变量 deductibleitems 接受 准予扣除项目
+# 变量 cost 接收 修缮费用
 
-with open("Data/sk_playerprefs_v2.xml", 'r', encoding="utf-8") as file_lines:
-    xml_string = ""
-    for line in file_lines:
-        xml_string += line
+# 财产租赁所得个税应纳税所得额计算为:
+# 每次收入不超过 4000 元
+# 应纳税所得额=每次收入额-准予扣除项目-修缮费用 (800元为限) -800元
+# 每次收入超过 4000元
+# 应纳税所得额=(每次收入额-准予扣除项目-修缮费用 (800元为限))* (1-20%)
 
-tree = ET.ElementTree(ET.fromstring(xml_string))
-root = tree.getroot()
-
-root = ET.fromstring(xml_string)
-
-# Sort
-# root[:] = sorted(root, key=lambda child: (child.tag, child.get('name')))
-
-for child in root.iter('int'):
-    if re.match(r"c\d+_skin\d+", child.get("name")):
-        print(child.get("name"))
-        child.set("value", "1")
-    if child.get("name") == "gems" and child.get("name") == "var_gems" and child.get("name") == "last_gems":
-        child.set("value", "99999999")
-    if re.match(r"c_\w+_skill_\d+_unlock", child.get("name")):
-        child.set("value", "1")
-
-for child in root.iter('string'):
-    if re.match(r"c\d+_unlock", child.get("name")):
-        child.text = "true"
-    # if re.match(r"p\d+_unlock", child.get("name")):
-    #     child.text = "true"
-
-# tree.write("Output/sk_playerprefs_v2.xml", encoding="utf-8")
-
-xmlstr = ET.tostring(root, encoding="utf-8", method="xml")
-#
-with open("Output/sk_playerprefs_v2.xml", 'w', encoding="utf-8") as new_file:
-    new_file.write("<?xml version='1.0' encoding='utf-8' standalone='yes' ?>\n")
-    new_file.write(xmlstr.decode("utf-8"))
+# 请编写财产租赁所得个税应纳税所得额计算的代码逻辑。
+def func(income, deductibleitems, cost):
+    ### 修改代码开始 ###
+    if income <= 4000:
+        taxable_income = income - deductibleitems - min(cost, 800) - 800
+    else:
+        taxable_income = (income - deductibleitems - min(cost, 800)) * 0.8
+    return taxable_income
